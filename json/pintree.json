@@ -11,6 +11,62 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1676792783543,
+            "title": "Systems thinking | Untools",
+            "icon": "https://logo.clearbit.com/untools.co",
+            "url": "https://untools.co/systems-thinking"
+          },
+          {
+            "type": "link",
+            "addDate": 1612790512528,
+            "title": "我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘",
+            "icon": "https://logo.clearbit.com/www.jianguoyun.com",
+            "url": "https://www.jianguoyun.com/d/home#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1653113370899,
+            "title": "Quicker软件 您的指尖工具箱 - Quicker",
+            "icon": "https://logo.clearbit.com/getquicker.net",
+            "url": "https://getquicker.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1679970345215,
+            "title": "pdf转word_pdf转换成excel_pdf转换成ppt _纬来PDF转换器",
+            "icon": "https://logo.clearbit.com/www.pdfpai.com",
+            "url": "https://www.pdfpai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1616502458070,
+            "title": "PDF合并 - 在线合并PDF - 金山PDF转换器在线版",
+            "icon": "https://logo.clearbit.com/pdf.wps.cn",
+            "url": "https://pdf.wps.cn/merge2pdf?from=search"
+          },
+          {
+            "type": "link",
+            "addDate": 1626096826911,
+            "title": "typing-cn",
+            "icon": "https://logo.clearbit.com/barneyzhao.gitee.io",
+            "url": "https://barneyzhao.gitee.io/typing-cn/#/about"
+          },
+          {
+            "type": "link",
+            "addDate": 1608460813219,
+            "title": "i Hate Regex - The Regex Cheat Sheet",
+            "icon": "https://logo.clearbit.com/ihateregex.io",
+            "url": "https://ihateregex.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1558873175105,
+            "title": "Generate - Coolors.co",
+            "icon": "https://logo.clearbit.com/coolors.co",
+            "url": "https://coolors.co/app"
+          },
+          {
+            "type": "link",
             "addDate": 1625270579286,
             "title": "API Access - SM.MS | Dashboard",
             "icon": "https://logo.clearbit.com/sm.ms",
@@ -60,34 +116,6 @@
           },
           {
             "type": "link",
-            "addDate": 1626096826911,
-            "title": "typing-cn",
-            "icon": "https://logo.clearbit.com/barneyzhao.gitee.io",
-            "url": "https://barneyzhao.gitee.io/typing-cn/#/about"
-          },
-          {
-            "type": "link",
-            "addDate": 1609349752948,
-            "title": "MATLAB Online R2020b",
-            "icon": "https://logo.clearbit.com/matlab.mathworks.com",
-            "url": "https://matlab.mathworks.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1609349774676,
-            "title": "https://web.autocad.com/login",
-            "icon": "https://logo.clearbit.com/web.autocad.com",
-            "url": "https://web.autocad.com/login"
-          },
-          {
-            "type": "link",
-            "addDate": 1609349832769,
-            "title": "Wolfram|Alpha: Computational Intelligence",
-            "icon": "https://logo.clearbit.com/www.wolframalpha.com",
-            "url": "https://www.wolframalpha.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1580471479670,
             "title": "Zed Dash on CodePen",
             "icon": "https://logo.clearbit.com/codepen.io",
@@ -95,45 +123,10 @@
           },
           {
             "type": "link",
-            "addDate": 1558873175105,
-            "title": "Generate - Coolors.co",
-            "icon": "https://logo.clearbit.com/coolors.co",
-            "url": "https://coolors.co/app"
-          },
-          {
-            "type": "link",
-            "addDate": 1608460813219,
-            "title": "i Hate Regex - The Regex Cheat Sheet",
-            "icon": "https://logo.clearbit.com/ihateregex.io",
-            "url": "https://ihateregex.io/"
-          },
-          {
-            "type": "link",
             "addDate": 1615430676499,
             "title": "GeoGebra | 免费的数学应用 - 全球学生与教师用户超过一亿",
             "icon": "https://logo.clearbit.com/www.geogebra.org",
             "url": "https://www.geogebra.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1616502458070,
-            "title": "PDF合并 - 在线合并PDF - 金山PDF转换器在线版",
-            "icon": "https://logo.clearbit.com/pdf.wps.cn",
-            "url": "https://pdf.wps.cn/merge2pdf?from=search"
-          },
-          {
-            "type": "link",
-            "addDate": 1609397875260,
-            "title": "Overleaf, 在线LaTeX编辑器",
-            "icon": "https://logo.clearbit.com/cn.overleaf.com",
-            "url": "https://cn.overleaf.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1679970345215,
-            "title": "pdf转word_pdf转换成excel_pdf转换成ppt _纬来PDF转换器",
-            "icon": "https://logo.clearbit.com/www.pdfpai.com",
-            "url": "https://www.pdfpai.com/"
           },
           {
             "type": "link",
@@ -148,13 +141,6 @@
             "title": "Tbox导航 | 只收录优质在线工具的导航网站",
             "icon": "https://logo.clearbit.com/www.tboxn.com",
             "url": "https://www.tboxn.com/#term-7"
-          },
-          {
-            "type": "link",
-            "addDate": 1719540108002,
-            "title": "Welcome - 100 Exercises To Learn Rust",
-            "icon": "https://logo.clearbit.com/rust-exercises.com",
-            "url": "https://rust-exercises.com/"
           }
         ]
       },
@@ -304,17 +290,17 @@
             ]
           },
           {
-            "type": "link",
-            "addDate": 1719213705830,
-            "title": "Latent Space | swyx & Alessio | Substack",
-            "icon": "https://logo.clearbit.com/www.latent.space",
-            "url": "https://www.latent.space/"
-          },
-          {
             "type": "folder",
             "addDate": 1721973625991,
             "title": "learning-src",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1719540108002,
+                "title": "Welcome - 100 Exercises To Learn Rust",
+                "icon": "https://logo.clearbit.com/rust-exercises.com",
+                "url": "https://rust-exercises.com/"
+              },
               {
                 "type": "link",
                 "addDate": 1679929121606,
@@ -380,13 +366,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1699789008129,
-                "title": "HTTP 协议入门 - 阮一峰的网络日志",
-                "icon": "https://logo.clearbit.com/www.ruanyifeng.com",
-                "url": "https://www.ruanyifeng.com/blog/2016/08/http.html"
-              },
-              {
-                "type": "link",
                 "addDate": 1658245421239,
                 "title": "Welcome on RealWorld | RealWorld",
                 "icon": "https://logo.clearbit.com/realworld-docs.netlify.app",
@@ -398,6 +377,27 @@
                 "title": "rCore-Tutorial-Book-v3 3.6.0-alpha.1 文档",
                 "icon": "https://logo.clearbit.com/rcore-os.cn",
                 "url": "https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1722169229739,
+                "title": "Stein Variational Gradient Descent · Depth First Learning",
+                "icon": "https://logo.clearbit.com/www.depthfirstlearning.com",
+                "url": "https://www.depthfirstlearning.com/2020/SVGD#1-basics-behind-kernelized-stein-discrepancy"
+              },
+              {
+                "type": "link",
+                "addDate": 1722234871905,
+                "title": "Distill — Latest articles about machine learning",
+                "icon": "https://logo.clearbit.com/distill.pub",
+                "url": "https://distill.pub/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722235161022,
+                "title": "7th VISxAI Workshop at IEEE VIS 2024",
+                "icon": "https://logo.clearbit.com/visxai.io",
+                "url": "https://visxai.io/"
               }
             ]
           },
@@ -406,6 +406,34 @@
             "addDate": 1721973756225,
             "title": "tools",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1609397875260,
+                "title": "Overleaf, 在线LaTeX编辑器",
+                "icon": "https://logo.clearbit.com/cn.overleaf.com",
+                "url": "https://cn.overleaf.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1609349832769,
+                "title": "Wolfram|Alpha: Computational Intelligence",
+                "icon": "https://logo.clearbit.com/www.wolframalpha.com",
+                "url": "https://www.wolframalpha.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1609349774676,
+                "title": "https://web.autocad.com/login",
+                "icon": "https://logo.clearbit.com/web.autocad.com",
+                "url": "https://web.autocad.com/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1609349752948,
+                "title": "MATLAB Online R2020b",
+                "icon": "https://logo.clearbit.com/matlab.mathworks.com",
+                "url": "https://matlab.mathworks.com/"
+              },
               {
                 "type": "link",
                 "addDate": 1718095651087,
@@ -561,6 +589,13 @@
                 "url": "https://commoncrawl.org/"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1719213705830,
+            "title": "Latent Space | swyx & Alessio | Substack",
+            "icon": "https://logo.clearbit.com/www.latent.space",
+            "url": "https://www.latent.space/"
           }
         ]
       },
@@ -592,24 +627,10 @@
           },
           {
             "type": "link",
-            "addDate": 1653113370899,
-            "title": "Quicker软件 您的指尖工具箱 - Quicker",
-            "icon": "https://logo.clearbit.com/getquicker.net",
-            "url": "https://getquicker.net/"
-          },
-          {
-            "type": "link",
             "addDate": 1701952392271,
             "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
             "icon": "https://logo.clearbit.com/zh.zlibrary-china.se",
             "url": "https://zh.zlibrary-china.se/"
-          },
-          {
-            "type": "link",
-            "addDate": 1705135333918,
-            "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
-            "icon": "https://logo.clearbit.com/zh.z-library.se",
-            "url": "https://zh.z-library.se/"
           },
           {
             "type": "link",
@@ -620,24 +641,10 @@
           },
           {
             "type": "link",
-            "addDate": 1612790512528,
-            "title": "我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘",
-            "icon": "https://logo.clearbit.com/www.jianguoyun.com",
-            "url": "https://www.jianguoyun.com/d/home#/"
-          },
-          {
-            "type": "link",
             "addDate": 1619243836927,
             "title": "毛泽东选集_读读书_小说_阅读_读书_哲学_历史_政治_文学_名著_古诗文_读读书_DodoBook.com",
             "icon": "https://logo.clearbit.com/www.dodobook.com",
             "url": "http://www.dodobook.com/index.php?id=books/maozedongxuanji/000"
-          },
-          {
-            "type": "link",
-            "addDate": 1676792783543,
-            "title": "Systems thinking | Untools",
-            "icon": "https://logo.clearbit.com/untools.co",
-            "url": "https://untools.co/systems-thinking"
           },
           {
             "type": "link",
@@ -701,13 +708,6 @@
             "title": "OuO Network",
             "icon": "https://logo.clearbit.com/dashboard.ouonet.work",
             "url": "https://dashboard.ouonet.work/dashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1720965109888,
-            "title": "airsim and mavros - YouTube",
-            "icon": "https://logo.clearbit.com/www.youtube.com",
-            "url": "https://www.youtube.com/watch?v=ZonkdMcwXH4"
           }
         ]
       },
@@ -1067,27 +1067,6 @@
             ]
           },
           {
-            "type": "link",
-            "addDate": 1716365132775,
-            "title": "Job Application for Research Intern at Ritual",
-            "icon": "https://logo.clearbit.com/boards.greenhouse.io",
-            "url": "https://boards.greenhouse.io/ritual/jobs/4358496007?utm_source=HiringCafe&utm_medium=HiringCafe&utm_campaign=HiringCafe&source=HiringCafe&ref=HiringCafe"
-          },
-          {
-            "type": "link",
-            "addDate": 1721626945951,
-            "title": "Assets · Kenney",
-            "icon": "https://logo.clearbit.com/kenney.nl",
-            "url": "https://kenney.nl/assets"
-          },
-          {
-            "type": "link",
-            "addDate": 1721636615493,
-            "title": "Pintree",
-            "icon": "https://logo.clearbit.com/app.pintree.io",
-            "url": "https://app.pintree.io/"
-          },
-          {
             "type": "folder",
             "addDate": 1721973581985,
             "title": "product",
@@ -1134,6 +1113,13 @@
             "addDate": 1721973702604,
             "title": "web",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1699789008129,
+                "title": "HTTP 协议入门 - 阮一峰的网络日志",
+                "icon": "https://logo.clearbit.com/www.ruanyifeng.com",
+                "url": "https://www.ruanyifeng.com/blog/2016/08/http.html"
+              },
               {
                 "type": "link",
                 "addDate": 1641470953286,
@@ -1211,6 +1197,13 @@
             "addDate": 1721973946199,
             "title": "uav",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1720965109888,
+                "title": "airsim and mavros - YouTube",
+                "icon": "https://logo.clearbit.com/www.youtube.com",
+                "url": "https://www.youtube.com/watch?v=ZonkdMcwXH4"
+              },
               {
                 "type": "link",
                 "addDate": 1712920119010,
@@ -1355,675 +1348,38 @@
           },
           {
             "type": "link",
+            "addDate": 1716365132775,
+            "title": "Job Application for Research Intern at Ritual",
+            "icon": "https://logo.clearbit.com/boards.greenhouse.io",
+            "url": "https://boards.greenhouse.io/ritual/jobs/4358496007?utm_source=HiringCafe&utm_medium=HiringCafe&utm_campaign=HiringCafe&source=HiringCafe&ref=HiringCafe"
+          },
+          {
+            "type": "link",
             "addDate": 1684490438964,
             "title": "在豆瓣实习",
             "icon": "https://logo.clearbit.com/jobs.douban.com",
             "url": "https://jobs.douban.com/jobs/intern/#position-kaifa"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1721973544001,
-        "title": "outdate",
-        "children": [
-          {
-            "type": "folder",
-            "addDate": 1613492998646,
-            "title": "tsinghua",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1623142575485,
-                "title": "华清大学课程攻略共享计划",
-                "icon": "https://logo.clearbit.com/in.closed.social",
-                "url": "https://in.closed.social:9443/pastExam/"
-              },
-              {
-                "type": "link",
-                "addDate": 1599743647830,
-                "title": "Tsinghua Online Judge",
-                "icon": "https://logo.clearbit.com/dsa.cs.tsinghua.edu.cn",
-                "url": "https://dsa.cs.tsinghua.edu.cn/oj/foyer.shtml"
-              },
-              {
-                "type": "link",
-                "addDate": 1633850480471,
-                "title": "目录 - THU Services",
-                "icon": "https://logo.clearbit.com/thu.services",
-                "url": "https://thu.services/"
-              },
-              {
-                "type": "link",
-                "addDate": 1709103149291,
-                "title": "（28封未读）清华校友邮箱-邮箱",
-                "icon": "https://logo.clearbit.com/mail.tsinghua.org.cn",
-                "url": "http://mail.tsinghua.org.cn/static/sirius-web/#mailbox"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1662285992775,
-            "title": "ky",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1660395543147,
-                "title": "常用幂级数展开式 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/339942470"
-              },
-              {
-                "type": "link",
-                "addDate": 1671255200143,
-                "title": "北京教育考试院",
-                "icon": "https://logo.clearbit.com/www.bjeea.cn",
-                "url": "https://www.bjeea.cn/html/yk/sszkzc/2022/1216/82821.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1676357318926,
-                "title": "全国硕士研究生招生考试部分考生初试成绩查询系统",
-                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
-                "url": "https://yz.chsi.com.cn/apply/cjcxa/"
-              },
-              {
-                "type": "link",
-                "addDate": 1697613233591,
-                "title": "北京大学研究生招生网",
-                "icon": "https://logo.clearbit.com/admission.pku.edu.cn",
-                "url": "https://admission.pku.edu.cn/applications/?CSRFT=QRN7-NM5C-LR08-50JO-TXH6-D31T-3UD6-NGA3"
-              },
-              {
-                "type": "link",
-                "addDate": 1710769498183,
-                "title": "17107256327a1.pdf",
-                "icon": "https://logo.clearbit.com/www.ss.pku.edu.cn",
-                "url": "https://www.ss.pku.edu.cn/newattachments/4551/17107256327a1.pdf"
-              },
-              {
-                "type": "link",
-                "addDate": 1713635830461,
-                "title": "全国硕士生招生复试调剂服务系统",
-                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
-                "url": "https://yz.chsi.com.cn/sytj/tj/yzytz.action"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1687861092910,
-            "title": "毕业",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1692076108088,
-                "title": "mcslam",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1692248725264,
-                    "title": "Spatial Calibration for Thermal-RGB Cameras and Inertial Sensor System",
-                    "icon": "https://logo.clearbit.com/www.computer.org",
-                    "url": "https://www.computer.org/csdl/proceedings-article/icpr/2018/08546111/17D45XwUAML"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692257445641,
-                    "title": "Calibrate extrinsic for D435i – Intel RealSense Help Center",
-                    "icon": "https://logo.clearbit.com/support.intelrealsense.com",
-                    "url": "https://support.intelrealsense.com/hc/en-us/community/posts/5172380958739-Calibrate-extrinsic-for-D435i"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692257786317,
-                    "title": "Intel® RealSense™ Self-Calibration for D400 Series Depth Cameras",
-                    "icon": "https://logo.clearbit.com/dev.intelrealsense.com",
-                    "url": "https://dev.intelrealsense.com/docs/self-calibration-for-depth-cameras#22-example-target-for-calibration--characterization"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692260170614,
-                    "title": "激光雷达与摄像头数据融合（1）——概括_摄像头雷达协同原理_mychaoles的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/mychaoles/article/details/108735775"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692260178683,
-                    "title": "Intel® RealSense™ Self-Calibration for D400 Series Depth Cameras",
-                    "icon": "https://logo.clearbit.com/dev.intelrealsense.com",
-                    "url": "https://dev.intelrealsense.com/docs/self-calibration-for-depth-cameras#4--limitations--on-chip-and-tare-calibration"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692261102214,
-                    "title": "[机器学习]KITTI的雷达+摄像头数据融合_kitti雷视融合_Frankkk_的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/Frankkk_/article/details/80709959"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692261277877,
-                    "title": "激光雷达和相机的联合标定（Camera-LiDAR Calibration）之Autoware_lidar和camera标定_W_Tortoise的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/learning_tortosie/article/details/82347694"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692263573710,
-                    "title": "The KITTI Vision Benchmark Suite",
-                    "icon": "https://logo.clearbit.com/www.cvlibs.net",
-                    "url": "https://www.cvlibs.net/datasets/kitti/eval_odometry.php"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692263615528,
-                    "title": "[LCC系列] 激光雷达和相机联合标定 之 开源代码和软件汇总 （2004-2021） - 知乎",
-                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                    "url": "https://zhuanlan.zhihu.com/p/404762012"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692263626856,
-                    "title": "The KITTI Vision Benchmark Suite",
-                    "icon": "https://logo.clearbit.com/www.cvlibs.net",
-                    "url": "https://www.cvlibs.net/datasets/kitti/raw_data.php"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692329762290,
-                    "title": "【深度估计】KITTI数据集介绍与使用说明 - 知乎",
-                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                    "url": "https://zhuanlan.zhihu.com/p/364423582"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692340335607,
-                    "title": "基于KITTI数据集的无人驾驶感知与传感器融合实现 - 飞桨AI Studio",
-                    "icon": "https://logo.clearbit.com/aistudio.baidu.com",
-                    "url": "https://aistudio.baidu.com/projectdetail/745413?channelType=0&channel=0"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692341867436,
-                    "title": "Geiger2013IJRR.pdf",
-                    "icon": "https://logo.clearbit.com/www.cvlibs.net",
-                    "url": "https://www.cvlibs.net/publications/Geiger2013IJRR.pdf"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692869162553,
-                    "title": "RTSP Stream Test | Wowza",
-                    "icon": "https://logo.clearbit.com/www.wowza.com",
-                    "url": "https://www.wowza.com/developer/rtsp-stream-test"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692881429417,
-                    "title": "Academic Phrasebank | The University of Manchester",
-                    "icon": "https://logo.clearbit.com/www.phrasebank.manchester.ac.uk",
-                    "url": "https://www.phrasebank.manchester.ac.uk/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692883877949,
-                    "title": "RTSP Stream - Dashboard",
-                    "icon": "https://logo.clearbit.com/rtsp.stream",
-                    "url": "https://rtsp.stream/admin/dashboard"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692934418058,
-                    "title": "python - Capturing RTP Timestamps - Stack Overflow",
-                    "icon": "https://logo.clearbit.com/stackoverflow.com",
-                    "url": "https://stackoverflow.com/questions/57590264/capturing-rtp-timestamps"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692952863359,
-                    "title": "流媒体传输协议之RTP - 知乎",
-                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                    "url": "https://zhuanlan.zhihu.com/p/86919417"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692955234574,
-                    "title": "Absolute Timestamp of Arbitrary Frame in RTSP Stream with GStreamer | by Qorela | Medium",
-                    "icon": "https://logo.clearbit.com/medium.com",
-                    "url": "https://medium.com/@Qorela/absolue-timestamp-of-arbitrary-frame-in-rtsp-stream-with-gstreamer-5a98c3057843"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693040421057,
-                    "title": "sdfstudio/nerfstudio/fields/sdf_field.py at fc13256b7f36c6eba2a760a5d4015275e5fcd8b3 · autonomousvision/sdfstudio",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/autonomousvision/sdfstudio/blob/fc13256b7f36c6eba2a760a5d4015275e5fcd8b3/nerfstudio/fields/sdf_field.py#L422"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693068659133,
-                    "title": "a514154639/rtsp_demo: gstreamer_rtsp",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/a514154639/rtsp_demo"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693219665552,
-                    "title": "Rtcp实现音视频同步 - 知乎",
-                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                    "url": "https://zhuanlan.zhihu.com/p/363779515"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693237966538,
-                    "title": "ubuntu环境下基于cerbero构建GStreamer及使用VSCode进行调试_ubuntu gstreamer csdn_A1_yuan的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/Miss_yuan/article/details/126436666"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693238394297,
-                    "title": "GStreamer开发简单MP4播放器（一）_gstreamer 播放mp4_倾我一生来读的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/qq_38694388/article/details/118458660"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693301856703,
-                    "title": "GStreamer系列之概览 — qytz-notes v0.1",
-                    "icon": "https://logo.clearbit.com/qytz-notes.readthedocs.io",
-                    "url": "https://qytz-notes.readthedocs.io/tech/gstreamer/gst-playbin.html"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693302270911,
-                    "title": "Application Development - GStreamer中文教程",
-                    "icon": "https://logo.clearbit.com/ricardolu.gitbook.io",
-                    "url": "https://ricardolu.gitbook.io/gstreamer/application-development"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693305632912,
-                    "title": "【GStreamer】基于NTP+SEI的视频流传输时延测量_休柯的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/Cheers724/article/details/99822937"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693364221629,
-                    "title": "FFmpeg从入门到精通——进阶篇，SEI那些事儿",
-                    "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-                    "url": "https://mp.weixin.qq.com/s/BrSOPtDIOj5Lv1h1MLKCSA"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693462601761,
-                    "title": "RTP中H264封装NALU格式详细解析_h264 nalu_小小码农Come on的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/weixin_45312249/article/details/122512390"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693465008790,
-                    "title": "【FFmpeg实战】H264 NALU分析_ffmpeg h264_攻城狮百里的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/weixin_52622200/article/details/131441854"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693473268395,
-                    "title": "What is the alignment capability in video/x-h264",
-                    "icon": "https://logo.clearbit.com/gstreamer-devel.narkive.com",
-                    "url": "https://gstreamer-devel.narkive.com/2i5BzQYy/what-is-the-alignment-capability-in-video-x-h264"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693810483751,
-                    "title": "【FFmpeg实战】H264, H265硬件编解码基础及码流分析 - 知乎",
-                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                    "url": "https://zhuanlan.zhihu.com/p/640491338"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693923299439,
-                    "title": "判断图片模糊区域_mjiansun的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/u013066730/article/details/105534767"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1695018134972,
-                    "title": "如何用ffmpeg将rtsp视频流录制成mp4文件-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/hidi_smile/article/details/106354041#:~:text=%E5%BD%95%E6%B5%81%20ffmpeg%20-y%20-i%20rtsp%3A%2F%2Fadmin%3Aadmin%40192.168.2.249%3A554%2F1%2F1,-vcodec%20copy%20-f%20mp4%202.mp4%201"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1695018139528,
-                    "title": "FFMPEG保存视频流数据至本地（rtsp转mp4）_ffmpeg命令把rtsp流保存mp4_HonoredGuest的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/m0_53601375/article/details/121076916"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1695018142300,
-                    "title": "音视频开发---ffmpeg录像并保存为mp4_ffmpeg 音视频录像_挥剑踏苍穹的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/u011734326/article/details/91953391"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1695020264710,
-                    "title": "使用ffmpeg在mp4中添加解析sei自定义信息 - 哔哩哔哩",
-                    "icon": "https://logo.clearbit.com/www.bilibili.com",
-                    "url": "https://www.bilibili.com/read/cv11534285/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1695020510689,
-                    "title": "ffmpeg filter过滤器 基础实例及全面解析 - 知乎",
-                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                    "url": "https://zhuanlan.zhihu.com/p/434373667"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1687861081985,
-                "title": "chrm.mohrss.gov.cn/流动人员人事档案管理服务机构信息/贵州省流动人员人事档案管理服务机构一览表/",
-                "icon": "https://logo.clearbit.com/chrm.mohrss.gov.cn",
-                "url": "https://chrm.mohrss.gov.cn/%E6%B5%81%E5%8A%A8%E4%BA%BA%E5%91%98%E4%BA%BA%E4%BA%8B%E6%A1%A3%E6%A1%88%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1%E6%9C%BA%E6%9E%84%E4%BF%A1%E6%81%AF/%E8%B4%B5%E5%B7%9E%E7%9C%81%E6%B5%81%E5%8A%A8%E4%BA%BA%E5%91%98%E4%BA%BA%E4%BA%8B%E6%A1%A3%E6%A1%88%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8/"
-              },
-              {
-                "type": "link",
-                "addDate": 1687921818412,
-                "title": "铜仁市人社部门各区县人才中心通讯地址及联系电话-公告公示-铜仁市人力资源和社会保障局",
-                "icon": "https://logo.clearbit.com/rsj.trs.gov.cn",
-                "url": "http://rsj.trs.gov.cn/zwgk/xxgkml/gggs/202106/t20210609_68464052.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1687930738826,
-                "title": "清华校友邮箱-邮箱",
-                "icon": "https://logo.clearbit.com/mail.tsinghua.org.cn",
-                "url": "https://mail.tsinghua.org.cn/static/sirius-web/#mailbox"
-              },
-              {
-                "type": "link",
-                "addDate": 1690188512643,
-                "title": "Multiple camera calibration · ethz-asl/kalibr Wiki",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/ethz-asl/kalibr/wiki/multiple-camera-calibration"
-              },
-              {
-                "type": "link",
-                "addDate": 1691071784726,
-                "title": "【ROS博客】apriltag_ros的使用 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/289582482"
-              },
-              {
-                "type": "link",
-                "addDate": 1691127141349,
-                "title": "Is there a way to sync/trigger the Intel® RealSense™ Depth...",
-                "icon": "https://logo.clearbit.com/www.intel.com",
-                "url": "https://www.intel.com/content/www/us/en/support/articles/000031281/emerging-technologies/intel-realsense-technology.html#:~:text=for%20the%20master%20camera%20set%20inter%20cam%20sync,slaves%20cameras%20set%20inter%20cam%20sync%20to%20%272%27"
-              },
-              {
-                "type": "link",
-                "addDate": 1691218710262,
-                "title": "How to sync rostopic time stamps among multiple devices? · Issue #1451 · IntelRealSense/realsense-ros",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/IntelRealSense/realsense-ros/issues/1451"
-              },
-              {
-                "type": "link",
-                "addDate": 1691220785088,
-                "title": "ROS, Missing frames when using D435 and multiple devices problems · Issue #1632 · IntelRealSense/realsense-ros",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/IntelRealSense/realsense-ros/issues/1632"
-              },
-              {
-                "type": "link",
-                "addDate": 1691221021834,
-                "title": "How-to: Multiple camera setup with ROS – Intel® RealSense™ Depth and Tracking Cameras",
-                "icon": "https://logo.clearbit.com/www.intelrealsense.com",
-                "url": "https://www.intelrealsense.com/how-to-multiple-camera-setup-with-ros/"
-              },
-              {
-                "type": "link",
-                "addDate": 1691223617061,
-                "title": "librealsense/doc/installation.md at master · IntelRealSense/librealsense",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md"
-              },
-              {
-                "type": "link",
-                "addDate": 1691644082507,
-                "title": "Coregestration_Multi-Camera_Image_Alignment_for_Aerial_Imaging.pdf",
-                "icon": "https://logo.clearbit.com/www.lumenera.com",
-                "url": "https://www.lumenera.com/media/wysiwyg/documents/casestudies/Coregestration_Multi-Camera_Image_Alignment_for_Aerial_Imaging.pdf"
-              },
-              {
-                "type": "link",
-                "addDate": 1691644089761,
-                "title": "Real-time panorama and image stitching with OpenCV - PyImageSearch",
-                "icon": "https://logo.clearbit.com/pyimagesearch.com",
-                "url": "https://pyimagesearch.com/2016/01/25/real-time-panorama-and-image-stitching-with-opencv/"
-              },
-              {
-                "type": "link",
-                "addDate": 1691644514902,
-                "title": "opencv - Multiple camera image stitching - Stack Overflow",
-                "icon": "https://logo.clearbit.com/stackoverflow.com",
-                "url": "https://stackoverflow.com/questions/11495132/multiple-camera-image-stitching"
-              },
-              {
-                "type": "link",
-                "addDate": 1691645926575,
-                "title": "A survey on image mosaicing techniques - ScienceDirect",
-                "icon": "https://logo.clearbit.com/www.sciencedirect.com",
-                "url": "https://www.sciencedirect.com/science/article/abs/pii/S1047320315002059"
-              },
-              {
-                "type": "link",
-                "addDate": 1691645988823,
-                "title": "US9355433B1 - Image stitching in a multi-camera array - Google Patents",
-                "icon": "https://logo.clearbit.com/patents.google.com",
-                "url": "https://patents.google.com/patent/US9355433B1/en"
-              },
-              {
-                "type": "link",
-                "addDate": 1691646104935,
-                "title": "遥感影像镶嵌及实现(一)_遥感影像镶嵌原理 csdn_ND_DoYouService的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/newston/article/details/88811941"
-              },
-              {
-                "type": "link",
-                "addDate": 1691646831165,
-                "title": "Automatic Color Calibration for Large Camera Arrays",
-                "icon": "https://logo.clearbit.com/escholarship.org",
-                "url": "https://escholarship.org/uc/item/3dw2p389"
-              },
-              {
-                "type": "link",
-                "addDate": 1691723618814,
-                "title": "多尺度非结构化阵列相机的超高分辨率视频合成和车辆跟踪算法研究 - 中国知网",
-                "icon": "https://logo.clearbit.com/kns.cnki.net",
-                "url": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1022705358.nh&uniplatform=NZKPT"
-              },
-              {
-                "type": "link",
-                "addDate": 1691724217779,
-                "title": "多相机阵列综述 - 水中的泪 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/coderyuhui/p/3745778.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1691724923515,
-                "title": "图像拼接现在还有研究的价值吗？有哪些可以研究的点？现在技术发展如何？ - 知乎",
-                "icon": "https://logo.clearbit.com/www.zhihu.com",
-                "url": "https://www.zhihu.com/question/34535199/answer/135169187"
-              },
-              {
-                "type": "link",
-                "addDate": 1691730021496,
-                "title": "透视变换与单应性（Homography）矩阵求解_峡谷相对论的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/qq_33552519/article/details/107115712"
-              },
-              {
-                "type": "link",
-                "addDate": 1691730968521,
-                "title": "41. 图像特征点、投影变换与图像拼接 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/137682759"
-              },
-              {
-                "type": "link",
-                "addDate": 1691742630561,
-                "title": "Linfeng-Tang/Image-Fusion: Deep Learning-based Image Fusion: A Survey",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/Linfeng-Tang/Image-Fusion"
-              },
-              {
-                "type": "link",
-                "addDate": 1691833494181,
-                "title": "一文详解相机标定算法原理 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/453316188"
-              },
-              {
-                "type": "link",
-                "addDate": 1691922044145,
-                "title": "自动驾驶中的时间同步(下) - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/454386024"
-              },
-              {
-                "type": "link",
-                "addDate": 1691984603531,
-                "title": "Downloads · Robotics and Multiperception Lab",
-                "icon": "https://logo.clearbit.com/www.ram-lab.com",
-                "url": "https://www.ram-lab.com/downloads/"
-              },
-              {
-                "type": "link",
-                "addDate": 1691984691740,
-                "title": "Rosbag dataset hub - General - ROS Discourse",
-                "icon": "https://logo.clearbit.com/discourse.ros.org",
-                "url": "https://discourse.ros.org/t/rosbag-dataset-hub/20323"
-              },
-              {
-                "type": "link",
-                "addDate": 1691989517413,
-                "title": "Panoramic Video from Unstructured Camera Arrays",
-                "icon": "https://logo.clearbit.com/fperazzi.github.io",
-                "url": "https://fperazzi.github.io/projects/panoramic_video/data.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1691994510192,
-                "title": "图片特征值匹配_图像特征匹配_eeeat_fish的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/betrapped/article/details/88563623"
-              },
-              {
-                "type": "link",
-                "addDate": 1692075015983,
-                "title": "热红外、可见光图像配准融合_可见光与红外匹配_Barry_123的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/Barry_123/article/details/114490362"
-              },
-              {
-                "type": "link",
-                "addDate": 1692075600197,
-                "title": "SLAM入门之视觉里程计(5)：单应矩阵 - Brook_icv - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/wangguchangqing/p/8287585.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1695619742121,
-                "title": "Admissions FAQ's | King Abdullah University",
-                "icon": "https://logo.clearbit.com/www.kaust.edu.sa",
-                "url": "https://www.kaust.edu.sa/en/study/admissions-faqs"
-              },
-              {
-                "type": "link",
-                "addDate": 1695709781776,
-                "title": "HiringCafe: Find Remote Jobs in Tech - Engineering, Design, Product, Sales, Marketing, and more.",
-                "icon": "https://logo.clearbit.com/hiring.cafe",
-                "url": "https://hiring.cafe/"
-              },
-              {
-                "type": "link",
-                "addDate": 1695986070657,
-                "title": "Bard",
-                "icon": "https://logo.clearbit.com/bard.google.com",
-                "url": "https://bard.google.com/chat/32dacade348c7263"
-              },
-              {
-                "type": "link",
-                "addDate": 1696070429732,
-                "title": "Qt并发模块Qt Concurrent的使用_qtconcurrent 用法_Amnesia Greens的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/amnesiagreen/article/details/116560543"
-              },
-              {
-                "type": "link",
-                "addDate": 1696632939239,
-                "title": "Windows vs2019 ffmpeg6.0开发环境搭建 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/626069182"
-              },
-              {
-                "type": "link",
-                "addDate": 1696633110898,
-                "title": "FFMPEG源码编译（Windows篇）_ffmpeg windows源码编译_飓风神龙的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/fan1102958151/article/details/115590291"
-              },
-              {
-                "type": "link",
-                "addDate": 1697419485765,
-                "title": "git.videolan.org Git - ffmpeg.git/blob - libavcodec/hevc_sei.c",
-                "icon": "https://logo.clearbit.com/git.videolan.org",
-                "url": "http://git.videolan.org/?p=ffmpeg.git;a=blob;f=libavcodec/hevc_sei.c;h=8ae680e5ebbc628513592112c977561e615b36d1;hb=HEAD#l200"
-              },
-              {
-                "type": "link",
-                "addDate": 1697517616713,
-                "title": "Anna’s Archive",
-                "icon": "https://logo.clearbit.com/annas-archive.org",
-                "url": "https://annas-archive.org/"
-              },
-              {
-                "type": "link",
-                "addDate": 1698048887182,
-                "title": "QGraphicsItem Class | Qt Widgets 6.6.0",
-                "icon": "https://logo.clearbit.com/doc.qt.io",
-                "url": "https://doc.qt.io/qt-6/qgraphicsitem.html#scene"
-              },
-              {
-                "type": "link",
-                "addDate": 1698348793582,
-                "title": "ROS记录包、回放包、提取出点云数据_回放ros 点云包_快乐得小萝卜的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/weixin_41738773/article/details/116404493"
-              }
-            ]
           },
           {
             "type": "link",
-            "addDate": 1683540204823,
-            "title": "新T树洞",
-            "icon": "https://logo.clearbit.com/new-t.github.io",
-            "url": "https://new-t.github.io/?"
+            "addDate": 1721636615493,
+            "title": "Pintree",
+            "icon": "https://logo.clearbit.com/app.pintree.io",
+            "url": "https://app.pintree.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721626945951,
+            "title": "Assets · Kenney",
+            "icon": "https://logo.clearbit.com/kenney.nl",
+            "url": "https://kenney.nl/assets"
+          },
+          {
+            "type": "link",
+            "addDate": 1722167719471,
+            "title": "World of Goo 2",
+            "icon": "https://logo.clearbit.com/worldofgoo2.com",
+            "url": "https://worldofgoo2.com/"
           }
         ]
       },
@@ -2033,13 +1389,6 @@
         "title": "Leave a Story",
         "icon": "https://logo.clearbit.com/leaveastory.com",
         "url": "https://leaveastory.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1721974609254,
-        "title": "（28封未读）清华校友邮箱-邮箱",
-        "icon": "https://logo.clearbit.com/mail.tsinghua.org.cn",
-        "url": "http://mail.tsinghua.org.cn/static/sirius-web/#mailbox"
       }
     ]
   }
