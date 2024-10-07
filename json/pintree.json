@@ -1,62 +1,132 @@
 [
   {
     "type": "folder",
-    "addDate": 1704285268149,
+    "addDate": 1727861359754,
     "title": "收藏夹栏",
     "children": [
       {
         "type": "folder",
-        "addDate": 1609349640227,
-        "title": "Tools",
+        "addDate": 1728292727819,
+        "title": "Ai Dev",
         "children": [
           {
             "type": "link",
-            "addDate": 1676792783543,
-            "title": "Systems thinking | Untools",
-            "icon": "https://logo.clearbit.com/untools.co",
-            "url": "https://untools.co/systems-thinking"
+            "addDate": 1713342740977,
+            "title": "letnet.pt",
+            "icon": "https://logo.clearbit.com/netron.app",
+            "url": "https://netron.app/"
           },
           {
             "type": "link",
-            "addDate": 1612790512528,
-            "title": "我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘",
-            "icon": "https://logo.clearbit.com/www.jianguoyun.com",
-            "url": "https://www.jianguoyun.com/d/home#/"
+            "addDate": 1715675349268,
+            "title": "HF-Mirror - Huggingface 镜像站",
+            "icon": "https://logo.clearbit.com/hf-mirror.com",
+            "url": "https://hf-mirror.com/"
           },
           {
             "type": "link",
-            "addDate": 1653113370899,
-            "title": "Quicker软件 您的指尖工具箱 - Quicker",
-            "icon": "https://logo.clearbit.com/getquicker.net",
-            "url": "https://getquicker.net/"
+            "addDate": 1712166863042,
+            "title": "HuggingChat",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/chat/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1677990890846,
+        "title": "Ai Tools",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1705049654593,
+            "title": "首页 · 魔搭社区",
+            "icon": "https://logo.clearbit.com/www.modelscope.cn",
+            "url": "https://www.modelscope.cn/home"
           },
           {
             "type": "link",
-            "addDate": 1679970345215,
-            "title": "pdf转word_pdf转换成excel_pdf转换成ppt _纬来PDF转换器",
-            "icon": "https://logo.clearbit.com/www.pdfpai.com",
-            "url": "https://www.pdfpai.com/"
+            "addDate": 1717576651395,
+            "title": "Overview - OpenAI API",
+            "icon": "https://logo.clearbit.com/platform.openai.com",
+            "url": "https://platform.openai.com/docs/overview"
           },
           {
             "type": "link",
-            "addDate": 1616502458070,
-            "title": "PDF合并 - 在线合并PDF - 金山PDF转换器在线版",
-            "icon": "https://logo.clearbit.com/pdf.wps.cn",
-            "url": "https://pdf.wps.cn/merge2pdf?from=search"
+            "addDate": 1695986070657,
+            "title": "Bard",
+            "icon": "https://logo.clearbit.com/bard.google.com",
+            "url": "https://bard.google.com/chat/32dacade348c7263"
           },
           {
             "type": "link",
-            "addDate": 1626096826911,
-            "title": "typing-cn",
-            "icon": "https://logo.clearbit.com/barneyzhao.gitee.io",
-            "url": "https://barneyzhao.gitee.io/typing-cn/#/about"
+            "addDate": 1682605379621,
+            "title": "Perplexity AI",
+            "icon": "https://logo.clearbit.com/www.perplexity.ai",
+            "url": "https://www.perplexity.ai/"
           },
           {
             "type": "link",
-            "addDate": 1608460813219,
-            "title": "i Hate Regex - The Regex Cheat Sheet",
-            "icon": "https://logo.clearbit.com/ihateregex.io",
-            "url": "https://ihateregex.io/"
+            "addDate": 1694180335710,
+            "title": "Segment Anything | Meta AI",
+            "icon": "https://logo.clearbit.com/segment-anything.com",
+            "url": "https://segment-anything.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1707758458203,
+            "title": "Claude",
+            "icon": "https://logo.clearbit.com/claude.ai",
+            "url": "https://claude.ai/chats"
+          },
+          {
+            "type": "link",
+            "addDate": 1704441995217,
+            "title": "Devv",
+            "icon": "https://logo.clearbit.com/devv.ai",
+            "url": "https://devv.ai/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1722846722048,
+            "title": "Mistral AI | Frontier AI in your hands",
+            "icon": "https://logo.clearbit.com/mistral.ai",
+            "url": "https://mistral.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721876849393,
+            "title": "Create stunning visuals in seconds with AI.",
+            "icon": "https://logo.clearbit.com/clipdrop.co",
+            "url": "https://clipdrop.co/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1659154777176,
+        "title": "Assets &  Slides",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1721626945951,
+            "title": "Assets · Kenney",
+            "icon": "https://logo.clearbit.com/kenney.nl",
+            "url": "https://kenney.nl/assets"
+          },
+          {
+            "type": "link",
+            "addDate": 1561269327175,
+            "title": "Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place",
+            "icon": "https://logo.clearbit.com/cssgradient.io",
+            "url": "https://cssgradient.io/gradient-backgrounds/?ref=designrevision.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1723282095133,
+            "title": "DeviantArt - The Largest Online Art Gallery and Community",
+            "icon": "https://logo.clearbit.com/www.deviantart.com",
+            "url": "https://www.deviantart.com/"
           },
           {
             "type": "link",
@@ -67,655 +137,11 @@
           },
           {
             "type": "link",
-            "addDate": 1625270579286,
-            "title": "API Access - SM.MS | Dashboard",
-            "icon": "https://logo.clearbit.com/sm.ms",
-            "url": "https://sm.ms/home/apitoken"
-          },
-          {
-            "type": "link",
-            "addDate": 1677038298661,
-            "title": "公式识别",
-            "icon": "https://logo.clearbit.com/simpletex.cn",
-            "url": "https://simpletex.cn/ai/latex_ocr"
-          },
-          {
-            "type": "link",
-            "addDate": 1677038068057,
-            "title": "在线LaTeX公式编辑器-编辑器",
-            "icon": "https://logo.clearbit.com/www.latexlive.com",
-            "url": "https://www.latexlive.com/home##"
-          },
-          {
-            "type": "link",
-            "addDate": 1653293161853,
-            "title": "Grammarly: Free Online Writing Assistant",
-            "icon": "https://logo.clearbit.com/www.grammarly.com",
-            "url": "https://www.grammarly.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1653293151343,
-            "title": "Ludwig • Find your English sentence",
-            "icon": "https://logo.clearbit.com/ludwig.guru",
-            "url": "https://ludwig.guru/"
-          },
-          {
-            "type": "link",
-            "addDate": 1614168244797,
-            "title": "Create LaTeX tables online – TablesGenerator.com",
-            "icon": "https://logo.clearbit.com/www.tablesgenerator.com",
-            "url": "https://www.tablesgenerator.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1613478372417,
             "title": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
             "icon": "https://logo.clearbit.com/www.nerdfonts.com",
             "url": "https://www.nerdfonts.com/font-downloads"
           },
-          {
-            "type": "link",
-            "addDate": 1580471479670,
-            "title": "Zed Dash on CodePen",
-            "icon": "https://logo.clearbit.com/codepen.io",
-            "url": "https://codepen.io/z-/pens/public?cursor=ZD0xJm89MCZwPTEmdj00MTk4MTcxMA=="
-          },
-          {
-            "type": "link",
-            "addDate": 1615430676499,
-            "title": "GeoGebra | 免费的数学应用 - 全球学生与教师用户超过一亿",
-            "icon": "https://logo.clearbit.com/www.geogebra.org",
-            "url": "https://www.geogebra.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719208268946,
-            "title": "Excalidraw",
-            "icon": "https://logo.clearbit.com/excalidraw.com",
-            "url": "https://excalidraw.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719215101916,
-            "title": "Tbox导航 | 只收录优质在线工具的导航网站",
-            "icon": "https://logo.clearbit.com/www.tboxn.com",
-            "url": "https://www.tboxn.com/#term-7"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1659154703260,
-        "title": "sci",
-        "children": [
-          {
-            "type": "folder",
-            "addDate": 1682161791570,
-            "title": "cv",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1680153071941,
-                "title": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields_ysh9888的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/qq_43620967/article/details/124801893"
-              },
-              {
-                "type": "link",
-                "addDate": 1680857754346,
-                "title": "【综述】相机重定位综述_phy12321的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/phy12321/article/details/106560607"
-              },
-              {
-                "type": "link",
-                "addDate": 1681054055897,
-                "title": "Matthew Tancik",
-                "icon": "https://logo.clearbit.com/www.matthewtancik.com",
-                "url": "https://www.matthewtancik.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1681278254641,
-                "title": "COLMAP简明教程 重建 转化深度图 导出相机参数 导入相机参数 命令行_colmap导出相机位姿_BigYouYou的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/qq_30565883/article/details/127907414"
-              },
-              {
-                "type": "link",
-                "addDate": 1682161779394,
-                "title": "COLMAP — COLMAP 3.8-dev documentation",
-                "icon": "https://logo.clearbit.com/colmap.github.io",
-                "url": "https://colmap.github.io/index.html"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1613492998667,
-            "title": "dsa",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1606712695505,
-                "title": "Data Structures & Algorithms, Tsinghua Computer",
-                "icon": "https://logo.clearbit.com/dsa.cs.tsinghua.edu.cn",
-                "url": "https://dsa.cs.tsinghua.edu.cn/~deng/ds/src_link/"
-              },
-              {
-                "type": "link",
-                "addDate": 1558873759468,
-                "title": "题库 - 力扣 (LeetCode)",
-                "icon": "https://logo.clearbit.com/leetcode-cn.com",
-                "url": "https://leetcode-cn.com/problemset/all/"
-              },
-              {
-                "type": "link",
-                "addDate": 1659160032132,
-                "title": "OI Wiki",
-                "icon": "https://logo.clearbit.com/oi-wiki.org",
-                "url": "https://oi-wiki.org/"
-              },
-              {
-                "type": "link",
-                "addDate": 1663855500099,
-                "title": "UCB CS61B: Data Structures and Algorithms - CS自学指南",
-                "icon": "https://logo.clearbit.com/csdiy.wiki",
-                "url": "https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/CS61B/"
-              },
-              {
-                "type": "link",
-                "addDate": 1666536594211,
-                "title": "安装使用Linux实验环境（适合希望自己安装Linux系统的同学） · ucore_os_docs",
-                "icon": "https://logo.clearbit.com/chyyuu.gitbooks.io",
-                "url": "https://chyyuu.gitbooks.io/ucore_os_docs/content/lab0/lab0_2_2_3_install.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1707843783251,
-                "title": "首页 - 洛谷 | 计算机科学教育新生态",
-                "icon": "https://logo.clearbit.com/www.luogu.com.cn",
-                "url": "https://www.luogu.com.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1709368507819,
-                "title": "迁移至Lingerois.com,欢迎访问!",
-                "icon": "https://logo.clearbit.com/lingeros-tot.github.io",
-                "url": "https://lingeros-tot.github.io/"
-              },
-              {
-                "type": "link",
-                "addDate": 1713680533787,
-                "title": "设计模式目录：22种设计模式",
-                "icon": "https://logo.clearbit.com/refactoringguru.cn",
-                "url": "https://refactoringguru.cn/design-patterns/catalog"
-              },
-              {
-                "type": "link",
-                "addDate": 1715416325255,
-                "title": "Debian -- Debian 搜索软件包",
-                "icon": "https://logo.clearbit.com/packages.debian.org",
-                "url": "https://packages.debian.org/zh-cn/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1704443463495,
-            "title": "thesis",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1609410747078,
-                "title": "Thesis – Welcome to UK-TUG",
-                "icon": "https://logo.clearbit.com/uk.tug.org",
-                "url": "http://uk.tug.org/training/thesis/"
-              },
-              {
-                "type": "link",
-                "addDate": 1652340134143,
-                "title": "毕业论文 | 封面、目录、正文设置不同页码步骤教学——APA格式 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/61108448"
-              },
-              {
-                "type": "link",
-                "addDate": 1651412331605,
-                "title": "调节脚注尾注前后的空行--很少人知道的脚注尾注参数设置 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/134089002"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1721973625991,
-            "title": "learning-src",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1719540108002,
-                "title": "Welcome - 100 Exercises To Learn Rust",
-                "icon": "https://logo.clearbit.com/rust-exercises.com",
-                "url": "https://rust-exercises.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1679929121606,
-                "title": "浅入浅出核方法 (Kernel Method) - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/131674827"
-              },
-              {
-                "type": "link",
-                "addDate": 1720166480868,
-                "title": "(3 封私信 / 16 条消息) 机器学习里的 kernel 是指什么？ - 知乎",
-                "icon": "https://logo.clearbit.com/www.zhihu.com",
-                "url": "https://www.zhihu.com/question/30371867/answer/624493106"
-              },
-              {
-                "type": "link",
-                "addDate": 1679927216282,
-                "title": "[学习笔记] Long Short-Term Memory - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/22670364"
-              },
-              {
-                "type": "link",
-                "addDate": 1714997845843,
-                "title": "Research | OpenAI",
-                "icon": "https://logo.clearbit.com/openai.com",
-                "url": "https://openai.com/news/research?sortBy=old&tags=research-milestone&limit=36"
-              },
-              {
-                "type": "link",
-                "addDate": 1718249210937,
-                "title": "【VAE学习笔记】全面通透地理解VAE(Variational Auto Encoder)_vae的作用-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/a312863063/article/details/87953517"
-              },
-              {
-                "type": "link",
-                "addDate": 1718195209838,
-                "title": "Generative Modeling by Estimating Gradients of the Data Distribution | Yang Song",
-                "icon": "https://logo.clearbit.com/yang-song.net",
-                "url": "https://yang-song.net/blog/2021/score/"
-              },
-              {
-                "type": "link",
-                "addDate": 1717238888534,
-                "title": "Stages of Compilation - Algorithmica",
-                "icon": "https://logo.clearbit.com/en.algorithmica.org",
-                "url": "https://en.algorithmica.org/hpc/compilation/stages/"
-              },
-              {
-                "type": "link",
-                "addDate": 1715062870825,
-                "title": "中國哲學書電子化計劃",
-                "icon": "https://logo.clearbit.com/ctext.org",
-                "url": "https://ctext.org/zhs"
-              },
-              {
-                "type": "link",
-                "addDate": 1719474203775,
-                "title": "Inspection-with-PX/Exploration/exploration_manager at master · aaryanmurgunde/Inspection-with-PX",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/aaryanmurgunde/Inspection-with-PX/tree/master/Exploration/exploration_manager"
-              },
-              {
-                "type": "link",
-                "addDate": 1658245421239,
-                "title": "Welcome on RealWorld | RealWorld",
-                "icon": "https://logo.clearbit.com/realworld-docs.netlify.app",
-                "url": "https://realworld-docs.netlify.app/"
-              },
-              {
-                "type": "link",
-                "addDate": 1698736693315,
-                "title": "rCore-Tutorial-Book-v3 3.6.0-alpha.1 文档",
-                "icon": "https://logo.clearbit.com/rcore-os.cn",
-                "url": "https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1722169229739,
-                "title": "Stein Variational Gradient Descent · Depth First Learning",
-                "icon": "https://logo.clearbit.com/www.depthfirstlearning.com",
-                "url": "https://www.depthfirstlearning.com/2020/SVGD#1-basics-behind-kernelized-stein-discrepancy"
-              },
-              {
-                "type": "link",
-                "addDate": 1722234871905,
-                "title": "Distill — Latest articles about machine learning",
-                "icon": "https://logo.clearbit.com/distill.pub",
-                "url": "https://distill.pub/"
-              },
-              {
-                "type": "link",
-                "addDate": 1722235161022,
-                "title": "7th VISxAI Workshop at IEEE VIS 2024",
-                "icon": "https://logo.clearbit.com/visxai.io",
-                "url": "https://visxai.io/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1721973756225,
-            "title": "tools",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1609397875260,
-                "title": "Overleaf, 在线LaTeX编辑器",
-                "icon": "https://logo.clearbit.com/cn.overleaf.com",
-                "url": "https://cn.overleaf.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1609349832769,
-                "title": "Wolfram|Alpha: Computational Intelligence",
-                "icon": "https://logo.clearbit.com/www.wolframalpha.com",
-                "url": "https://www.wolframalpha.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1609349774676,
-                "title": "https://web.autocad.com/login",
-                "icon": "https://logo.clearbit.com/web.autocad.com",
-                "url": "https://web.autocad.com/login"
-              },
-              {
-                "type": "link",
-                "addDate": 1609349752948,
-                "title": "MATLAB Online R2020b",
-                "icon": "https://logo.clearbit.com/matlab.mathworks.com",
-                "url": "https://matlab.mathworks.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1718095651087,
-                "title": "免费转换您的 3D OBJ 文件并提供完整的纹理支持",
-                "icon": "https://logo.clearbit.com/fabconvert.com",
-                "url": "https://fabconvert.com/cn/convert/obj"
-              },
-              {
-                "type": "link",
-                "addDate": 1613976971160,
-                "title": "写论文、搞科研、读大学必备的28款软件。 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/60951245"
-              },
-              {
-                "type": "link",
-                "addDate": 1614936779462,
-                "title": "Materials Project",
-                "icon": "https://logo.clearbit.com/materialsproject.org",
-                "url": "https://materialsproject.org/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1721973780968,
-            "title": "paper-src",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1718538932571,
-                "title": "ResearchRabbit | Substack",
-                "icon": "https://logo.clearbit.com/rsrchrabbit.substack.com",
-                "url": "https://rsrchrabbit.substack.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1716381819620,
-                "title": "Latent Box",
-                "icon": "https://logo.clearbit.com/latentbox.com",
-                "url": "https://latentbox.com/zh"
-              },
-              {
-                "type": "link",
-                "addDate": 1715866494135,
-                "title": "Smart Autonomous Robotics | STAR Group",
-                "icon": "https://logo.clearbit.com/sysu-star.com",
-                "url": "http://sysu-star.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1615294116725,
-                "title": "Sci-Hub: removing barriers in the way of science",
-                "icon": "https://logo.clearbit.com/sci-hub.se",
-                "url": "https://sci-hub.se/"
-              },
-              {
-                "type": "link",
-                "addDate": 1615294086292,
-                "title": "ScienceDirect.com | Science, health and medical journals, full text articles and books.",
-                "icon": "https://logo.clearbit.com/www.sciencedirect.com",
-                "url": "https://www.sciencedirect.com/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1721973792550,
-            "title": "misc",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1713420496918,
-                "title": "OpenCV4.5 报错error：‘ CV_* ’was not declared in this scope 解决解决办法总结_error: ‘cv_mop_blackhat’ was not declared in this -CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/qq_44164791/article/details/131210608"
-              },
-              {
-                "type": "link",
-                "addDate": 1717378387014,
-                "title": "殷鹏教授谈未来SLAM领域值得研究的九个方向",
-                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-                "url": "https://mp.weixin.qq.com/s/wIKvUdh_LwLlEwBmW-MpXQ"
-              },
-              {
-                "type": "link",
-                "addDate": 1716192970768,
-                "title": "Active-SLAM综述 主动同步定位与建图 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/691527215"
-              },
-              {
-                "type": "link",
-                "addDate": 1715045239760,
-                "title": "【开源项目集】无人机在未知环境中的自主建图方法 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/469826810"
-              },
-              {
-                "type": "link",
-                "addDate": 1713765432294,
-                "title": "Plan 9 探险（七）：分布式操作系统 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/38346901"
-              },
-              {
-                "type": "link",
-                "addDate": 1713342005385,
-                "title": "ONNX学习笔记 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/346511883"
-              },
-              {
-                "type": "link",
-                "addDate": 1712903477944,
-                "title": "学习强化学习无法避开的两个词：Model-Based与Model-Free - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/81262713"
-              },
-              {
-                "type": "link",
-                "addDate": 1710088009332,
-                "title": "BERT源码详解（一）——HuggingFace Transformers最新版本源码解读 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/360988428"
-              },
-              {
-                "type": "link",
-                "addDate": 1709719554494,
-                "title": "【调参侠的修炼笔记1】温度系数Temperature Parameter的讲人话解释 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/544432496"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1721973971901,
-            "title": "datasets",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1721135504329,
-                "title": "LAION",
-                "icon": "https://logo.clearbit.com/laion.ai",
-                "url": "https://laion.ai/"
-              },
-              {
-                "type": "link",
-                "addDate": 1721135397127,
-                "title": "Common Crawl - Open Repository of Web Crawl Data",
-                "icon": "https://logo.clearbit.com/commoncrawl.org",
-                "url": "https://commoncrawl.org/"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1719213705830,
-            "title": "Latent Space | swyx & Alessio | Substack",
-            "icon": "https://logo.clearbit.com/www.latent.space",
-            "url": "https://www.latent.space/"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1612451905877,
-        "title": "科学上网",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1613576783248,
-            "title": "GitHub 文件加速",
-            "icon": "https://logo.clearbit.com/shrill-pond-3e81.hunsh.workers.dev",
-            "url": "https://shrill-pond-3e81.hunsh.workers.dev/"
-          },
-          {
-            "type": "link",
-            "addDate": 1612365022071,
-            "title": "GitClone - GitHub缓存加速网站，为开发者服务",
-            "icon": "https://logo.clearbit.com/www.gitclone.com",
-            "url": "https://www.gitclone.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1675865849309,
-            "title": "获取虚拟手机号码。短期手机号码。手机短信激活服务",
-            "icon": "https://logo.clearbit.com/sms-activate.org",
-            "url": "https://sms-activate.org/getNumber"
-          },
-          {
-            "type": "link",
-            "addDate": 1701952392271,
-            "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
-            "icon": "https://logo.clearbit.com/zh.zlibrary-china.se",
-            "url": "https://zh.zlibrary-china.se/"
-          },
-          {
-            "type": "link",
-            "addDate": 1690803568306,
-            "title": "无名图书 | 一个好看的电子书网站",
-            "icon": "https://logo.clearbit.com/www.book123.info",
-            "url": "https://www.book123.info/"
-          },
-          {
-            "type": "link",
-            "addDate": 1619243836927,
-            "title": "毛泽东选集_读读书_小说_阅读_读书_哲学_历史_政治_文学_名著_古诗文_读读书_DodoBook.com",
-            "icon": "https://logo.clearbit.com/www.dodobook.com",
-            "url": "http://www.dodobook.com/index.php?id=books/maozedongxuanji/000"
-          },
-          {
-            "type": "link",
-            "addDate": 1704455157212,
-            "title": "FreeOK - 追剧也很卷",
-            "icon": "https://logo.clearbit.com/www.freeok.pro",
-            "url": "https://www.freeok.pro/"
-          },
-          {
-            "type": "link",
-            "addDate": 1706974280850,
-            "title": "不死+不幸漫画_第43话,_在线漫画阅读_动漫屋",
-            "icon": "https://logo.clearbit.com/www.dm5.com",
-            "url": "https://www.dm5.com/m1092235/"
-          },
-          {
-            "type": "link",
-            "addDate": 1708065807070,
-            "title": "📜 ➜ Megathread",
-            "icon": "https://logo.clearbit.com/rentry.co",
-            "url": "https://rentry.co/megathread"
-          },
-          {
-            "type": "link",
-            "addDate": 1708065919823,
-            "title": "Welcome • freemediaheckyeah",
-            "icon": "https://logo.clearbit.com/fmhy.net",
-            "url": "https://fmhy.net/"
-          },
-          {
-            "type": "link",
-            "addDate": 1708066314515,
-            "title": "1000 inspiring websites, curated by Supercreative",
-            "icon": "https://logo.clearbit.com/supercreative.design",
-            "url": "https://supercreative.design/1000-inspiring-websites"
-          },
-          {
-            "type": "link",
-            "addDate": 1708066924041,
-            "title": "今日热榜",
-            "icon": "https://logo.clearbit.com/tophub.today",
-            "url": "https://tophub.today/c/news"
-          },
-          {
-            "type": "link",
-            "addDate": 1718277839835,
-            "title": "FOMEPay",
-            "icon": "https://logo.clearbit.com/www.fomepay.cn",
-            "url": "https://www.fomepay.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1718356915258,
-            "title": "jichangzhu/JichangTuijian: 2024最新好用的机场推荐与节点分享",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/jichangzhu/jichangtuijian"
-          },
-          {
-            "type": "link",
-            "addDate": 1720958143685,
-            "title": "OuO Network",
-            "icon": "https://logo.clearbit.com/dashboard.ouonet.work",
-            "url": "https://dashboard.ouonet.work/dashboard"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1659154777176,
-        "title": "Assets &  Slides",
-        "children": [
           {
             "type": "link",
             "addDate": 1651031848409,
@@ -797,36 +223,78 @@
       },
       {
         "type": "folder",
-        "addDate": 1652077703753,
-        "title": "pmcaff",
+        "addDate": 1728292296811,
+        "title": "Book",
         "children": [
           {
             "type": "link",
-            "addDate": 1652077688102,
-            "title": "「万字复盘」产业互联网B端产品经理实操手册 | 附我的学习材料",
-            "icon": "https://logo.clearbit.com/coffee.pmcaff.com",
-            "url": "https://coffee.pmcaff.com/article/9qQoY9qMkw"
+            "addDate": 1697517616713,
+            "title": "Anna’s Archive",
+            "icon": "https://logo.clearbit.com/annas-archive.org",
+            "url": "https://annas-archive.org/"
           },
           {
             "type": "link",
-            "addDate": 1652078365539,
-            "title": "认真教新手设计一个顶级表单定制后台PRD（万字+20图）",
-            "icon": "https://logo.clearbit.com/coffee.pmcaff.com",
-            "url": "https://coffee.pmcaff.com/article/eRkez8qRLV"
+            "addDate": 1715062870825,
+            "title": "中國哲學書電子化計劃",
+            "icon": "https://logo.clearbit.com/ctext.org",
+            "url": "https://ctext.org/zhs"
           },
           {
             "type": "link",
-            "addDate": 1652081315534,
-            "title": "万字长文——互联网广告到底是如何运行的？",
-            "icon": "https://logo.clearbit.com/coffee.pmcaff.com",
-            "url": "https://coffee.pmcaff.com/article/G2QdyqpEBZ"
+            "addDate": 1722324585864,
+            "title": "lib genesis",
+            "icon": "https://logo.clearbit.com/libgen.is",
+            "url": "https://libgen.is/"
+          },
+          {
+            "type": "link",
+            "addDate": 1619243836927,
+            "title": "毛泽东选集_读读书",
+            "icon": "https://logo.clearbit.com/www.dodobook.com",
+            "url": "http://www.dodobook.com/index.php?id=books/maozedongxuanji/000"
+          },
+          {
+            "type": "link",
+            "addDate": 1690803568306,
+            "title": "无名图书 | 一个好看的电子书网站",
+            "icon": "https://logo.clearbit.com/www.book123.info",
+            "url": "https://www.book123.info/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1728293403335,
+        "title": "Datasets",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1691984603531,
+            "title": "Downloads · Robotics and Multiperception Lab",
+            "icon": "https://logo.clearbit.com/www.ram-lab.com",
+            "url": "https://www.ram-lab.com/downloads/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721135504329,
+            "title": "LAION",
+            "icon": "https://logo.clearbit.com/laion.ai",
+            "url": "https://laion.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721135397127,
+            "title": "Common Crawl - Open Repository of Web Crawl Data",
+            "icon": "https://logo.clearbit.com/commoncrawl.org",
+            "url": "https://commoncrawl.org/"
           }
         ]
       },
       {
         "type": "folder",
         "addDate": 1677900032209,
-        "title": "en",
+        "title": "English",
         "children": [
           {
             "type": "link",
@@ -895,218 +363,267 @@
       },
       {
         "type": "folder",
-        "addDate": 1677990890846,
-        "title": "Ai Tools",
+        "addDate": 1727602412722,
+        "title": "Fun",
         "children": [
           {
             "type": "link",
-            "addDate": 1677990877002,
-            "title": "ChatPDF - Chat with any PDF!",
-            "icon": "https://logo.clearbit.com/www.chatpdf.com",
-            "url": "https://www.chatpdf.com/"
+            "addDate": 1722167719471,
+            "title": "World of Goo 2",
+            "icon": "https://logo.clearbit.com/worldofgoo2.com",
+            "url": "https://worldofgoo2.com/"
           },
           {
             "type": "link",
-            "addDate": 1678114292669,
-            "title": "ChatGPT API Demo",
-            "icon": "https://logo.clearbit.com/chatgpt.ddiu.me",
-            "url": "https://chatgpt.ddiu.me/"
+            "addDate": 1706974280850,
+            "title": "不死+不幸漫画_第43话,_在线漫画阅读_动漫屋",
+            "icon": "https://logo.clearbit.com/www.dm5.com",
+            "url": "https://www.dm5.com/m1092235/"
           },
           {
             "type": "link",
-            "addDate": 1682605379621,
-            "title": "Perplexity AI",
-            "icon": "https://logo.clearbit.com/www.perplexity.ai",
-            "url": "https://www.perplexity.ai/"
+            "addDate": 1704455157212,
+            "title": "FreeOK - 追剧也很卷",
+            "icon": "https://logo.clearbit.com/www.freeok.pro",
+            "url": "https://www.freeok.pro/"
           },
           {
             "type": "link",
-            "addDate": 1694180335710,
-            "title": "Segment Anything | Meta AI",
-            "icon": "https://logo.clearbit.com/segment-anything.com",
-            "url": "https://segment-anything.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1707758458203,
-            "title": "Claude",
-            "icon": "https://logo.clearbit.com/claude.ai",
-            "url": "https://claude.ai/chats"
-          },
-          {
-            "type": "link",
-            "addDate": 1704441995217,
-            "title": "Devv",
-            "icon": "https://logo.clearbit.com/devv.ai",
-            "url": "https://devv.ai/zh"
-          },
-          {
-            "type": "link",
-            "addDate": 1712166863042,
-            "title": "HuggingChat",
-            "icon": "https://logo.clearbit.com/huggingface.co",
-            "url": "https://huggingface.co/chat/"
-          },
-          {
-            "type": "link",
-            "addDate": 1713342740977,
-            "title": "letnet.pt",
-            "icon": "https://logo.clearbit.com/netron.app",
-            "url": "https://netron.app/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715054319489,
-            "title": "IndiePulse - Find your next startup idea in seconds",
-            "icon": "https://logo.clearbit.com/www.indiepulse.co",
-            "url": "https://www.indiepulse.co/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715675349268,
-            "title": "HF-Mirror - Huggingface 镜像站",
-            "icon": "https://logo.clearbit.com/hf-mirror.com",
-            "url": "https://hf-mirror.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1708066060498,
-            "title": "词云_词云图_词云文字-简单高效的词云图在线生成制作工具和在线词云文字生成制作的技术博客",
-            "icon": "https://logo.clearbit.com/www.ciyunwenzi.com",
-            "url": "https://www.ciyunwenzi.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721876849393,
-            "title": "Create stunning visuals in seconds with AI.",
-            "icon": "https://logo.clearbit.com/clipdrop.co",
-            "url": "https://clipdrop.co/"
+            "addDate": 1659155423922,
+            "title": "Leave a Story",
+            "icon": "https://logo.clearbit.com/leaveastory.com",
+            "url": "https://leaveastory.com/"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1690964624880,
-        "title": "nvidia",
+        "addDate": 1728292471044,
+        "title": "Gateway",
         "children": [
           {
             "type": "link",
-            "addDate": 1690964611598,
-            "title": "NVIDIA NGC",
-            "icon": "https://logo.clearbit.com/ngc.nvidia.com",
-            "url": "https://ngc.nvidia.com/setup"
+            "addDate": 1719215101916,
+            "title": "Tbox导航 | 只收录优质在线工具的导航网站",
+            "icon": "https://logo.clearbit.com/www.tboxn.com",
+            "url": "https://www.tboxn.com/#term-7"
           },
           {
             "type": "link",
-            "addDate": 1691471025309,
-            "title": "NVIDIA CUDA Installation Guide for Linux",
-            "icon": "https://logo.clearbit.com/docs.nvidia.com",
-            "url": "https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html"
+            "addDate": 1708066314515,
+            "title": "1000 inspiring websites, curated by Supercreative",
+            "icon": "https://logo.clearbit.com/supercreative.design",
+            "url": "https://supercreative.design/1000-inspiring-websites"
           },
           {
             "type": "link",
-            "addDate": 1713762449452,
-            "title": "ros2_jetson/docker at main · NVIDIA-AI-IOT/ros2_jetson",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/NVIDIA-AI-IOT/ros2_jetson/tree/main/docker"
+            "addDate": 1708065919823,
+            "title": "Welcome • freemediaheckyeah",
+            "icon": "https://logo.clearbit.com/fmhy.net",
+            "url": "https://fmhy.net/"
           },
           {
             "type": "link",
-            "addDate": 1718541561397,
-            "title": "Data Science, Machine Learning, AI, HPC Containers | NVIDIA NGC",
-            "icon": "https://logo.clearbit.com/catalog.ngc.nvidia.com",
-            "url": "https://catalog.ngc.nvidia.com/containers?filters=&orderBy=weightPopularDESC&query=&page=&pageSize="
+            "addDate": 1708065807070,
+            "title": "📜 ➜ Megathread",
+            "icon": "https://logo.clearbit.com/rentry.co",
+            "url": "https://rentry.co/megathread"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1715587017352,
-        "title": "dev",
+        "addDate": 1728292502363,
+        "title": "News",
         "children": [
           {
-            "type": "folder",
-            "addDate": 1598696926361,
-            "title": "mirrors",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1580809607019,
-                "title": "Node.js, Node.js RC, Node.js Nightly, io.js, alinode, nsolid, Python, PhantomJS, NPM, electron, atom-shell, node-chakracore, git-for-windows, nwjs, atom, ChromeDriver, OperaDriver, geckodriver, selenium, node-inspector, fsevents, node-sass, leveldown, leveldown-hyper, mknod, rabin, sodium-prebuilt, utp-native, node-tk5, couchbase, fuse-bindings, zmq-prebuilt, gl, hackrf, sqlite3, chromium-browser-snapshots, grpc, nodegit, canvas-prebuilt, cypress, flow, poi, libjpeg-turbo, moby, yarn, utf-8-validate, jpegtran-bin, pngquant-bin, zopflipng-bin, gifsicle-bin, mozjpeg-bin, cwebp-bin, optipng-bin, jpegoptim-bin, pngcrush-bin, guetzli-bin, gif2webp-bin, pngout-bin, advpng-bin, jpeg-recompress-bin, zeromq, minikube, sentry-cli, sharp-libvips, sharp, tfjs-models, node-canvas-prebuilt, node-swc Mirrors",
-                "icon": "https://logo.clearbit.com/npm.taobao.org",
-                "url": "https://npm.taobao.org/mirrors/"
-              },
-              {
-                "type": "link",
-                "addDate": 1609349596844,
-                "title": "清华大学开源软件镜像站 | Tsinghua Open Source Mirror",
-                "icon": "https://logo.clearbit.com/mirrors.tuna.tsinghua.edu.cn",
-                "url": "https://mirrors.tuna.tsinghua.edu.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1609349569894,
-                "title": "NEXT, ITELLYOU",
-                "icon": "https://logo.clearbit.com/next.itellyou.cn",
-                "url": "https://next.itellyou.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1580809544969,
-                "title": "atom Mirror",
-                "icon": "https://logo.clearbit.com/cnpmjs.org",
-                "url": "https://cnpmjs.org/mirrors/atom/"
-              },
-              {
-                "type": "link",
-                "addDate": 1716893872688,
-                "title": "ROS - USTC Mirror Help",
-                "icon": "https://logo.clearbit.com/mirrors.ustc.edu.cn",
-                "url": "https://mirrors.ustc.edu.cn/help/ros.html"
-              }
-            ]
+            "type": "link",
+            "addDate": 1708066924041,
+            "title": "今日热榜",
+            "icon": "https://logo.clearbit.com/tophub.today",
+            "url": "https://tophub.today/c/news"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1728293110357,
+        "title": "Notes",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1713420496918,
+            "title": "OpenCV4.5 报错error：‘ CV_* ’was not declared in this scope 解决解决办法总结_error: ‘cv_mop_blackhat’ was not declared in this -CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/qq_44164791/article/details/131210608"
           },
           {
-            "type": "folder",
-            "addDate": 1721973581985,
-            "title": "product",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1717576651395,
-                "title": "Overview - OpenAI API",
-                "icon": "https://logo.clearbit.com/platform.openai.com",
-                "url": "https://platform.openai.com/docs/overview"
-              },
-              {
-                "type": "link",
-                "addDate": 1705049654593,
-                "title": "首页 · 魔搭社区",
-                "icon": "https://logo.clearbit.com/www.modelscope.cn",
-                "url": "https://www.modelscope.cn/home"
-              },
-              {
-                "type": "link",
-                "addDate": 1626191608150,
-                "title": "Carbon | Create and share beautiful images of your source code",
-                "icon": "https://logo.clearbit.com/carbon.now.sh",
-                "url": "https://carbon.now.sh/"
-              },
-              {
-                "type": "link",
-                "addDate": 1715587001241,
-                "title": "Lemon Squeezy",
-                "icon": "https://logo.clearbit.com/app.lemonsqueezy.com",
-                "url": "https://app.lemonsqueezy.com/dashboard"
-              },
-              {
-                "type": "link",
-                "addDate": 1645529450222,
-                "title": "Supabase",
-                "icon": "https://logo.clearbit.com/app.supabase.io",
-                "url": "https://app.supabase.io/project/zctmqtoabgdwxxbbqaey/editor/16779"
-              }
-            ]
+            "type": "link",
+            "addDate": 1717378387014,
+            "title": "殷鹏教授谈未来SLAM领域值得研究的九个方向",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s/wIKvUdh_LwLlEwBmW-MpXQ"
+          },
+          {
+            "type": "link",
+            "addDate": 1716192970768,
+            "title": "Active-SLAM综述 主动同步定位与建图 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/691527215"
+          },
+          {
+            "type": "link",
+            "addDate": 1715045239760,
+            "title": "【开源项目集】无人机在未知环境中的自主建图方法 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/469826810"
+          },
+          {
+            "type": "link",
+            "addDate": 1713765432294,
+            "title": "Plan 9 探险（七）：分布式操作系统 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/38346901"
+          },
+          {
+            "type": "link",
+            "addDate": 1713342005385,
+            "title": "ONNX学习笔记 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/346511883"
+          },
+          {
+            "type": "link",
+            "addDate": 1712903477944,
+            "title": "学习强化学习无法避开的两个词：Model-Based与Model-Free - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/81262713"
+          },
+          {
+            "type": "link",
+            "addDate": 1710088009332,
+            "title": "BERT源码详解（一）——HuggingFace Transformers最新版本源码解读 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/360988428"
+          },
+          {
+            "type": "link",
+            "addDate": 1709719554494,
+            "title": "【调参侠的修炼笔记1】温度系数Temperature Parameter的讲人话解释 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/544432496"
+          },
+          {
+            "type": "link",
+            "addDate": 1613976971160,
+            "title": "写论文、搞科研、读大学必备的28款软件。 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/60951245"
+          },
+          {
+            "type": "link",
+            "addDate": 1722234871905,
+            "title": "Distill — Latest articles about machine learning",
+            "icon": "https://logo.clearbit.com/distill.pub",
+            "url": "https://distill.pub/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722235161022,
+            "title": "7th VISxAI Workshop at IEEE VIS 2024",
+            "icon": "https://logo.clearbit.com/visxai.io",
+            "url": "https://visxai.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722255678402,
+            "title": "OpenAI Microscope",
+            "icon": "https://logo.clearbit.com/microscope.openai.com",
+            "url": "https://microscope.openai.com/models/contrastive_4x/image_block_4_5_Add_6_0/1777"
+          },
+          {
+            "type": "link",
+            "addDate": 1709368507819,
+            "title": "迁移至Lingerois.com,欢迎访问!",
+            "icon": "https://logo.clearbit.com/lingeros-tot.github.io",
+            "url": "https://lingeros-tot.github.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1714997845843,
+            "title": "Research | OpenAI",
+            "icon": "https://logo.clearbit.com/openai.com",
+            "url": "https://openai.com/news/research?sortBy=old&tags=research-milestone&limit=36"
+          },
+          {
+            "type": "link",
+            "addDate": 1722169229739,
+            "title": "Stein Variational Gradient Descent · Depth First Learning",
+            "icon": "https://logo.clearbit.com/www.depthfirstlearning.com",
+            "url": "https://www.depthfirstlearning.com/2020/SVGD#1-basics-behind-kernelized-stein-discrepancy"
+          },
+          {
+            "type": "link",
+            "addDate": 1718195209838,
+            "title": "Generative Modeling by Estimating Gradients of the Data Distribution | Yang Song",
+            "icon": "https://logo.clearbit.com/yang-song.net",
+            "url": "https://yang-song.net/blog/2021/score/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718249210937,
+            "title": "【VAE学习笔记】全面通透地理解VAE(Variational Auto Encoder)_vae的作用-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/a312863063/article/details/87953517"
+          },
+          {
+            "type": "link",
+            "addDate": 1679929121606,
+            "title": "浅入浅出核方法 (Kernel Method) - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/131674827"
+          },
+          {
+            "type": "link",
+            "addDate": 1720166480868,
+            "title": "(3 封私信 / 16 条消息) 机器学习里的 kernel 是指什么？ - 知乎",
+            "icon": "https://logo.clearbit.com/www.zhihu.com",
+            "url": "https://www.zhihu.com/question/30371867/answer/624493106"
+          },
+          {
+            "type": "link",
+            "addDate": 1679927216282,
+            "title": "[学习笔记] Long Short-Term Memory - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/22670364"
+          },
+          {
+            "type": "link",
+            "addDate": 1728101593862,
+            "title": "About — Neel Nanda",
+            "icon": "https://logo.clearbit.com/www.neelnanda.io",
+            "url": "https://www.neelnanda.io/about"
+          },
+          {
+            "type": "link",
+            "addDate": 1728291514080,
+            "title": "Research \\ Anthropic",
+            "icon": "https://logo.clearbit.com/www.anthropic.com",
+            "url": "https://www.anthropic.com/research"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727602358155,
+        "title": "Product",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1684490438964,
+            "title": "在豆瓣实习",
+            "icon": "https://logo.clearbit.com/jobs.douban.com",
+            "url": "https://jobs.douban.com/jobs/intern/#position-kaifa"
           },
           {
             "type": "folder",
@@ -1133,62 +650,160 @@
                 "title": "CSS Tricks",
                 "icon": "https://logo.clearbit.com/qishaoxuan.github.io",
                 "url": "https://qishaoxuan.github.io/css_tricks/"
-              },
-              {
-                "type": "link",
-                "addDate": 1561269327175,
-                "title": "Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place",
-                "icon": "https://logo.clearbit.com/cssgradient.io",
-                "url": "https://cssgradient.io/gradient-backgrounds/?ref=designrevision.com"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721973811541,
-            "title": "debug",
+            "addDate": 1652077703753,
+            "title": "pmcaff",
             "children": [
               {
                 "type": "link",
-                "addDate": 1715691788885,
-                "title": "Connect to Docker engine running on a remote machine",
-                "icon": "https://logo.clearbit.com/code.visualstudio.com",
-                "url": "https://code.visualstudio.com/docs/containers/ssh"
+                "addDate": 1652077688102,
+                "title": "「万字复盘」产业互联网B端产品经理实操手册 | 附我的学习材料",
+                "icon": "https://logo.clearbit.com/coffee.pmcaff.com",
+                "url": "https://coffee.pmcaff.com/article/9qQoY9qMkw"
+              },
+              {
+                "type": "link",
+                "addDate": 1652078365539,
+                "title": "认真教新手设计一个顶级表单定制后台PRD（万字+20图）",
+                "icon": "https://logo.clearbit.com/coffee.pmcaff.com",
+                "url": "https://coffee.pmcaff.com/article/eRkez8qRLV"
+              },
+              {
+                "type": "link",
+                "addDate": 1652081315534,
+                "title": "万字长文——互联网广告到底是如何运行的？",
+                "icon": "https://logo.clearbit.com/coffee.pmcaff.com",
+                "url": "https://coffee.pmcaff.com/article/G2QdyqpEBZ"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1715054319489,
+            "title": "IndiePulse - Find your next startup idea in seconds",
+            "icon": "https://logo.clearbit.com/www.indiepulse.co",
+            "url": "https://www.indiepulse.co/"
+          },
+          {
+            "type": "link",
+            "addDate": 1645529450222,
+            "title": "Supabase",
+            "icon": "https://logo.clearbit.com/app.supabase.io",
+            "url": "https://app.supabase.io/project/zctmqtoabgdwxxbbqaey/editor/16779"
+          },
+          {
+            "type": "link",
+            "addDate": 1715587001241,
+            "title": "Lemon Squeezy",
+            "icon": "https://logo.clearbit.com/app.lemonsqueezy.com",
+            "url": "https://app.lemonsqueezy.com/dashboard"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1728293155740,
+        "title": "Programming",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1721974549302,
+            "title": "blogs",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1720445149718,
+                "title": "How to Store Dotfiles - A Bare Git Repository | Atlassian Git Tutorial",
+                "icon": "https://logo.clearbit.com/www.atlassian.com",
+                "url": "https://www.atlassian.com/git/tutorials/dotfiles"
+              },
+              {
+                "type": "link",
+                "addDate": 1718255047348,
+                "title": "Applied LLMs - What We’ve Learned From A Year of Building with LLMs",
+                "icon": "https://logo.clearbit.com/applied-llms.org",
+                "url": "https://applied-llms.org/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721973843229,
-            "title": "ros",
+            "addDate": 1721974504691,
+            "title": "learning-src",
             "children": [
               {
                 "type": "link",
-                "addDate": 1721272514909,
-                "title": "Quaternions - Visualisation",
-                "icon": "https://logo.clearbit.com/quaternions.online",
-                "url": "https://quaternions.online/"
+                "addDate": 1699452277735,
+                "title": "RFC 5218: What Makes for a Successful Protocol?",
+                "icon": "https://logo.clearbit.com/www.rfc-editor.org",
+                "url": "https://www.rfc-editor.org/rfc/rfc5218"
               },
               {
                 "type": "link",
-                "addDate": 1719391065898,
-                "title": "tf/Overview/Transformations - ROS Wiki",
-                "icon": "https://logo.clearbit.com/wiki.ros.org",
-                "url": "http://wiki.ros.org/tf/Overview/Transformations"
+                "addDate": 1661869893589,
+                "title": "[MS-OFFSTANDLP]: Word, Excel, and PowerPoint Standards Support | Microsoft Docs",
+                "icon": "https://logo.clearbit.com/docs.microsoft.com",
+                "url": "https://docs.microsoft.com/en-us/openspecs/office_standards/ms-offstandlp/d5784a8b-7070-466b-befa-b7bf3724c6f0"
               },
               {
                 "type": "link",
-                "addDate": 1719388710684,
-                "title": "tf/Overview/Using Published Transforms - ROS Wiki",
-                "icon": "https://logo.clearbit.com/wiki.ros.org",
-                "url": "http://wiki.ros.org/tf/Overview/Using%20Published%20Transforms"
+                "addDate": 1659460978841,
+                "title": "Excel JavaScript API overview - Office Add-ins | Microsoft Docs",
+                "icon": "https://logo.clearbit.com/docs.microsoft.com",
+                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/reference/overview/excel-add-ins-reference-overview"
               },
               {
                 "type": "link",
-                "addDate": 1716810458254,
-                "title": "ROS Packages",
-                "icon": "https://logo.clearbit.com/index.ros.org",
-                "url": "https://index.ros.org/packages/#noetic"
+                "addDate": 1721627304012,
+                "title": "WSL 中的高级设置配置 | Microsoft Learn",
+                "icon": "https://logo.clearbit.com/learn.microsoft.com",
+                "url": "https://learn.microsoft.com/zh-cn/windows/wsl/wsl-config"
+              },
+              {
+                "type": "link",
+                "addDate": 1721627152585,
+                "title": "Welcome to GraphRAG",
+                "icon": "https://logo.clearbit.com/microsoft.github.io",
+                "url": "https://microsoft.github.io/graphrag/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721715543478,
+                "title": "Barret李靖 | 小胡子哥的个人网站",
+                "icon": "https://logo.clearbit.com/www.barretlee.com",
+                "url": "https://www.barretlee.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721973999487,
+            "title": "selfhost",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1720430665554,
+                "title": "How to completely remove docker images from a Docker registry V2? | by Lyheng Tep | Medium",
+                "icon": "https://logo.clearbit.com/teplyheng.medium.com",
+                "url": "https://teplyheng.medium.com/how-to-completely-remove-docker-images-from-a-docker-registry-v2-76d8a26847ff"
+              },
+              {
+                "type": "link",
+                "addDate": 1720435109896,
+                "title": "About Registry | CNCF Distribution",
+                "icon": "https://logo.clearbit.com/distribution.github.io",
+                "url": "https://distribution.github.io/distribution/about/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721134237524,
+                "title": "MinIO | S3 & Kubernetes Native Object Storage for AI",
+                "icon": "https://logo.clearbit.com/min.io",
+                "url": "https://min.io/"
               }
             ]
           },
@@ -1250,99 +865,113 @@
           },
           {
             "type": "folder",
-            "addDate": 1721973999487,
-            "title": "selfhost",
+            "addDate": 1721973843229,
+            "title": "ros",
             "children": [
               {
                 "type": "link",
-                "addDate": 1720430665554,
-                "title": "How to completely remove docker images from a Docker registry V2? | by Lyheng Tep | Medium",
-                "icon": "https://logo.clearbit.com/teplyheng.medium.com",
-                "url": "https://teplyheng.medium.com/how-to-completely-remove-docker-images-from-a-docker-registry-v2-76d8a26847ff"
+                "addDate": 1721272514909,
+                "title": "Quaternions - Visualisation",
+                "icon": "https://logo.clearbit.com/quaternions.online",
+                "url": "https://quaternions.online/"
               },
               {
                 "type": "link",
-                "addDate": 1720435109896,
-                "title": "About Registry | CNCF Distribution",
-                "icon": "https://logo.clearbit.com/distribution.github.io",
-                "url": "https://distribution.github.io/distribution/about/"
+                "addDate": 1719391065898,
+                "title": "tf/Overview/Transformations - ROS Wiki",
+                "icon": "https://logo.clearbit.com/wiki.ros.org",
+                "url": "http://wiki.ros.org/tf/Overview/Transformations"
               },
               {
                 "type": "link",
-                "addDate": 1721134237524,
-                "title": "MinIO | S3 & Kubernetes Native Object Storage for AI",
-                "icon": "https://logo.clearbit.com/min.io",
-                "url": "https://min.io/"
+                "addDate": 1719388710684,
+                "title": "tf/Overview/Using Published Transforms - ROS Wiki",
+                "icon": "https://logo.clearbit.com/wiki.ros.org",
+                "url": "http://wiki.ros.org/tf/Overview/Using%20Published%20Transforms"
+              },
+              {
+                "type": "link",
+                "addDate": 1716810458254,
+                "title": "ROS Packages",
+                "icon": "https://logo.clearbit.com/index.ros.org",
+                "url": "https://index.ros.org/packages/#noetic"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721974504691,
-            "title": "learning-src",
+            "addDate": 1598696926361,
+            "title": "mirrors",
             "children": [
               {
                 "type": "link",
-                "addDate": 1699452277735,
-                "title": "RFC 5218: What Makes for a Successful Protocol?",
-                "icon": "https://logo.clearbit.com/www.rfc-editor.org",
-                "url": "https://www.rfc-editor.org/rfc/rfc5218"
+                "addDate": 1580809607019,
+                "title": "Node.js, Node.js RC, Node.js Nightly, io.js, alinode, nsolid, Python, PhantomJS, NPM, electron, atom-shell, node-chakracore, git-for-windows, nwjs, atom, ChromeDriver, OperaDriver, geckodriver, selenium, node-inspector, fsevents, node-sass, leveldown, leveldown-hyper, mknod, rabin, sodium-prebuilt, utp-native, node-tk5, couchbase, fuse-bindings, zmq-prebuilt, gl, hackrf, sqlite3, chromium-browser-snapshots, grpc, nodegit, canvas-prebuilt, cypress, flow, poi, libjpeg-turbo, moby, yarn, utf-8-validate, jpegtran-bin, pngquant-bin, zopflipng-bin, gifsicle-bin, mozjpeg-bin, cwebp-bin, optipng-bin, jpegoptim-bin, pngcrush-bin, guetzli-bin, gif2webp-bin, pngout-bin, advpng-bin, jpeg-recompress-bin, zeromq, minikube, sentry-cli, sharp-libvips, sharp, tfjs-models, node-canvas-prebuilt, node-swc Mirrors",
+                "icon": "https://logo.clearbit.com/npm.taobao.org",
+                "url": "https://npm.taobao.org/mirrors/"
               },
               {
                 "type": "link",
-                "addDate": 1661869893589,
-                "title": "[MS-OFFSTANDLP]: Word, Excel, and PowerPoint Standards Support | Microsoft Docs",
-                "icon": "https://logo.clearbit.com/docs.microsoft.com",
-                "url": "https://docs.microsoft.com/en-us/openspecs/office_standards/ms-offstandlp/d5784a8b-7070-466b-befa-b7bf3724c6f0"
+                "addDate": 1609349596844,
+                "title": "清华大学开源软件镜像站 | Tsinghua Open Source Mirror",
+                "icon": "https://logo.clearbit.com/mirrors.tuna.tsinghua.edu.cn",
+                "url": "https://mirrors.tuna.tsinghua.edu.cn/"
               },
               {
                 "type": "link",
-                "addDate": 1659460978841,
-                "title": "Excel JavaScript API overview - Office Add-ins | Microsoft Docs",
-                "icon": "https://logo.clearbit.com/docs.microsoft.com",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/reference/overview/excel-add-ins-reference-overview"
+                "addDate": 1609349569894,
+                "title": "NEXT, ITELLYOU",
+                "icon": "https://logo.clearbit.com/next.itellyou.cn",
+                "url": "https://next.itellyou.cn/"
               },
               {
                 "type": "link",
-                "addDate": 1721627304012,
-                "title": "WSL 中的高级设置配置 | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/zh-cn/windows/wsl/wsl-config"
+                "addDate": 1580809544969,
+                "title": "atom Mirror",
+                "icon": "https://logo.clearbit.com/cnpmjs.org",
+                "url": "https://cnpmjs.org/mirrors/atom/"
               },
               {
                 "type": "link",
-                "addDate": 1721627152585,
-                "title": "Welcome to GraphRAG",
-                "icon": "https://logo.clearbit.com/microsoft.github.io",
-                "url": "https://microsoft.github.io/graphrag/"
-              },
-              {
-                "type": "link",
-                "addDate": 1721715543478,
-                "title": "Barret李靖 | 小胡子哥的个人网站",
-                "icon": "https://logo.clearbit.com/www.barretlee.com",
-                "url": "https://www.barretlee.com/"
+                "addDate": 1716893872688,
+                "title": "ROS - USTC Mirror Help",
+                "icon": "https://logo.clearbit.com/mirrors.ustc.edu.cn",
+                "url": "https://mirrors.ustc.edu.cn/help/ros.html"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721974549302,
-            "title": "blogs",
+            "addDate": 1690964624880,
+            "title": "nvidia",
             "children": [
               {
                 "type": "link",
-                "addDate": 1720445149718,
-                "title": "How to Store Dotfiles - A Bare Git Repository | Atlassian Git Tutorial",
-                "icon": "https://logo.clearbit.com/www.atlassian.com",
-                "url": "https://www.atlassian.com/git/tutorials/dotfiles"
+                "addDate": 1690964611598,
+                "title": "NVIDIA NGC",
+                "icon": "https://logo.clearbit.com/ngc.nvidia.com",
+                "url": "https://ngc.nvidia.com/setup"
               },
               {
                 "type": "link",
-                "addDate": 1718255047348,
-                "title": "Applied LLMs - What We’ve Learned From A Year of Building with LLMs",
-                "icon": "https://logo.clearbit.com/applied-llms.org",
-                "url": "https://applied-llms.org/"
+                "addDate": 1691471025309,
+                "title": "NVIDIA CUDA Installation Guide for Linux",
+                "icon": "https://logo.clearbit.com/docs.nvidia.com",
+                "url": "https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1713762449452,
+                "title": "ros2_jetson/docker at main · NVIDIA-AI-IOT/ros2_jetson",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/NVIDIA-AI-IOT/ros2_jetson/tree/main/docker"
+              },
+              {
+                "type": "link",
+                "addDate": 1718541561397,
+                "title": "Data Science, Machine Learning, AI, HPC Containers | NVIDIA NGC",
+                "icon": "https://logo.clearbit.com/catalog.ngc.nvidia.com",
+                "url": "https://catalog.ngc.nvidia.com/containers?filters=&orderBy=weightPopularDESC&query=&page=&pageSize="
               }
             ]
           },
@@ -1355,40 +984,768 @@
           },
           {
             "type": "link",
-            "addDate": 1684490438964,
-            "title": "在豆瓣实习",
-            "icon": "https://logo.clearbit.com/jobs.douban.com",
-            "url": "https://jobs.douban.com/jobs/intern/#position-kaifa"
+            "addDate": 1626191608150,
+            "title": "Carbon | Create and share beautiful images of your source code",
+            "icon": "https://logo.clearbit.com/carbon.now.sh",
+            "url": "https://carbon.now.sh/"
           },
           {
             "type": "link",
-            "addDate": 1721636615493,
-            "title": "Pintree",
-            "icon": "https://logo.clearbit.com/app.pintree.io",
-            "url": "https://app.pintree.io/"
+            "addDate": 1695709781776,
+            "title": "HiringCafe: Find Remote Jobs in Tech - Engineering, Design, Product, Sales, Marketing, and more.",
+            "icon": "https://logo.clearbit.com/hiring.cafe",
+            "url": "https://hiring.cafe/"
           },
           {
             "type": "link",
-            "addDate": 1721626945951,
-            "title": "Assets · Kenney",
-            "icon": "https://logo.clearbit.com/kenney.nl",
-            "url": "https://kenney.nl/assets"
+            "addDate": 1722343574019,
+            "title": "Compiler Explorer",
+            "icon": "https://logo.clearbit.com/godbolt.org",
+            "url": "https://godbolt.org/"
           },
           {
             "type": "link",
-            "addDate": 1722167719471,
-            "title": "World of Goo 2",
-            "icon": "https://logo.clearbit.com/worldofgoo2.com",
-            "url": "https://worldofgoo2.com/"
+            "addDate": 1698736693315,
+            "title": "rCore-Tutorial-Book-v3 3.6.0-alpha.1 文档",
+            "icon": "https://logo.clearbit.com/rcore-os.cn",
+            "url": "https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1715416325255,
+            "title": "Debian -- Debian 搜索软件包",
+            "icon": "https://logo.clearbit.com/packages.debian.org",
+            "url": "https://packages.debian.org/zh-cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1606712695505,
+            "title": "Data Structures & Algorithms, Tsinghua Computer",
+            "icon": "https://logo.clearbit.com/dsa.cs.tsinghua.edu.cn",
+            "url": "https://dsa.cs.tsinghua.edu.cn/~deng/ds/src_link/"
+          },
+          {
+            "type": "link",
+            "addDate": 1558873759468,
+            "title": "题库 - 力扣 (LeetCode)",
+            "icon": "https://logo.clearbit.com/leetcode-cn.com",
+            "url": "https://leetcode-cn.com/problemset/all/"
+          },
+          {
+            "type": "link",
+            "addDate": 1659160032132,
+            "title": "OI Wiki",
+            "icon": "https://logo.clearbit.com/oi-wiki.org",
+            "url": "https://oi-wiki.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1663855500099,
+            "title": "CS自学指南",
+            "icon": "https://logo.clearbit.com/csdiy.wiki",
+            "url": "https://csdiy.wiki/"
+          },
+          {
+            "type": "link",
+            "addDate": 1666536594211,
+            "title": "ucore",
+            "icon": "https://logo.clearbit.com/chyyuu.gitbooks.io",
+            "url": "https://chyyuu.gitbooks.io/ucore_os_docs/content/lab0/lab0_2_2_3_install.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1707843783251,
+            "title": "洛谷",
+            "icon": "https://logo.clearbit.com/www.luogu.com.cn",
+            "url": "https://www.luogu.com.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1713680533787,
+            "title": "设计模式目录：22种设计模式",
+            "icon": "https://logo.clearbit.com/refactoringguru.cn",
+            "url": "https://refactoringguru.cn/design-patterns/catalog"
+          },
+          {
+            "type": "link",
+            "addDate": 1658245421239,
+            "title": "Welcome on RealWorld | RealWorld",
+            "icon": "https://logo.clearbit.com/realworld-docs.netlify.app",
+            "url": "https://realworld-docs.netlify.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719540108002,
+            "title": "Welcome - 100 Exercises To Learn Rust",
+            "icon": "https://logo.clearbit.com/rust-exercises.com",
+            "url": "https://rust-exercises.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1717238888534,
+            "title": "Stages of Compilation - Algorithmica",
+            "icon": "https://logo.clearbit.com/en.algorithmica.org",
+            "url": "https://en.algorithmica.org/hpc/compilation/stages/"
           }
         ]
       },
       {
-        "type": "link",
-        "addDate": 1659155423922,
-        "title": "Leave a Story",
-        "icon": "https://logo.clearbit.com/leaveastory.com",
-        "url": "https://leaveastory.com/"
+        "type": "folder",
+        "addDate": 1609349640227,
+        "title": "Tools",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1609349832769,
+            "title": "Wolfram|Alpha: Computational Intelligence",
+            "icon": "https://logo.clearbit.com/www.wolframalpha.com",
+            "url": "https://www.wolframalpha.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1609349774676,
+            "title": "https://web.autocad.com/login",
+            "icon": "https://logo.clearbit.com/web.autocad.com",
+            "url": "https://web.autocad.com/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1609349752948,
+            "title": "MATLAB Online R2020b",
+            "icon": "https://logo.clearbit.com/matlab.mathworks.com",
+            "url": "https://matlab.mathworks.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718095651087,
+            "title": "免费转换您的 3D OBJ 文件并提供完整的纹理支持",
+            "icon": "https://logo.clearbit.com/fabconvert.com",
+            "url": "https://fabconvert.com/cn/convert/obj"
+          },
+          {
+            "type": "link",
+            "addDate": 1614936779462,
+            "title": "Materials Project",
+            "icon": "https://logo.clearbit.com/materialsproject.org",
+            "url": "https://materialsproject.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1676792783543,
+            "title": "Systems thinking | Untools",
+            "icon": "https://logo.clearbit.com/untools.co",
+            "url": "https://untools.co/systems-thinking"
+          },
+          {
+            "type": "link",
+            "addDate": 1612790512528,
+            "title": "我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘",
+            "icon": "https://logo.clearbit.com/www.jianguoyun.com",
+            "url": "https://www.jianguoyun.com/d/home#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1653113370899,
+            "title": "Quicker软件 您的指尖工具箱 - Quicker",
+            "icon": "https://logo.clearbit.com/getquicker.net",
+            "url": "https://getquicker.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1679970345215,
+            "title": "pdf转word_pdf转换成excel_pdf转换成ppt _纬来PDF转换器",
+            "icon": "https://logo.clearbit.com/www.pdfpai.com",
+            "url": "https://www.pdfpai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1616502458070,
+            "title": "PDF合并 - 在线合并PDF - 金山PDF转换器在线版",
+            "icon": "https://logo.clearbit.com/pdf.wps.cn",
+            "url": "https://pdf.wps.cn/merge2pdf?from=search"
+          },
+          {
+            "type": "link",
+            "addDate": 1608460813219,
+            "title": "i Hate Regex - The Regex Cheat Sheet",
+            "icon": "https://logo.clearbit.com/ihateregex.io",
+            "url": "https://ihateregex.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1677038298661,
+            "title": "公式识别",
+            "icon": "https://logo.clearbit.com/simpletex.cn",
+            "url": "https://simpletex.cn/ai/latex_ocr"
+          },
+          {
+            "type": "link",
+            "addDate": 1677038068057,
+            "title": "在线LaTeX公式编辑器-编辑器",
+            "icon": "https://logo.clearbit.com/www.latexlive.com",
+            "url": "https://www.latexlive.com/home##"
+          },
+          {
+            "type": "link",
+            "addDate": 1614168244797,
+            "title": "Create LaTeX tables online – TablesGenerator.com",
+            "icon": "https://logo.clearbit.com/www.tablesgenerator.com",
+            "url": "https://www.tablesgenerator.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1580471479670,
+            "title": "Zed Dash on CodePen",
+            "icon": "https://logo.clearbit.com/codepen.io",
+            "url": "https://codepen.io/z-/pens/public?cursor=ZD0xJm89MCZwPTEmdj00MTk4MTcxMA=="
+          },
+          {
+            "type": "link",
+            "addDate": 1615430676499,
+            "title": "GeoGebra | 免费的数学应用 - 全球学生与教师用户超过一亿",
+            "icon": "https://logo.clearbit.com/www.geogebra.org",
+            "url": "https://www.geogebra.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719208268946,
+            "title": "Excalidraw",
+            "icon": "https://logo.clearbit.com/excalidraw.com",
+            "url": "https://excalidraw.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1728292812849,
+        "title": "Writing",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1721973780968,
+            "title": "paper-src",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718538932571,
+                "title": "ResearchRabbit | Substack",
+                "icon": "https://logo.clearbit.com/rsrchrabbit.substack.com",
+                "url": "https://rsrchrabbit.substack.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716381819620,
+                "title": "Latent Box",
+                "icon": "https://logo.clearbit.com/latentbox.com",
+                "url": "https://latentbox.com/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1715866494135,
+                "title": "Smart Autonomous Robotics | STAR Group",
+                "icon": "https://logo.clearbit.com/sysu-star.com",
+                "url": "http://sysu-star.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1615294116725,
+                "title": "Sci-Hub: removing barriers in the way of science",
+                "icon": "https://logo.clearbit.com/sci-hub.se",
+                "url": "https://sci-hub.se/"
+              },
+              {
+                "type": "link",
+                "addDate": 1615294086292,
+                "title": "ScienceDirect.com | Science, health and medical journals, full text articles and books.",
+                "icon": "https://logo.clearbit.com/www.sciencedirect.com",
+                "url": "https://www.sciencedirect.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722324468997,
+                "title": "Home Feed | ResearchGate",
+                "icon": "https://logo.clearbit.com/www.researchgate.net",
+                "url": "https://www.researchgate.net/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1704443463495,
+            "title": "thesis",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1609410747078,
+                "title": "Thesis – Welcome to UK-TUG",
+                "icon": "https://logo.clearbit.com/uk.tug.org",
+                "url": "http://uk.tug.org/training/thesis/"
+              },
+              {
+                "type": "link",
+                "addDate": 1652340134143,
+                "title": "毕业论文 | 封面、目录、正文设置不同页码步骤教学——APA格式 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/61108448"
+              },
+              {
+                "type": "link",
+                "addDate": 1651412331605,
+                "title": "调节脚注尾注前后的空行--很少人知道的脚注尾注参数设置 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/134089002"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1609397875260,
+            "title": "Overleaf, 在线LaTeX编辑器",
+            "icon": "https://logo.clearbit.com/cn.overleaf.com",
+            "url": "https://cn.overleaf.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1626096826911,
+            "title": "typing-cn",
+            "icon": "https://logo.clearbit.com/barneyzhao.gitee.io",
+            "url": "https://barneyzhao.gitee.io/typing-cn/#/about"
+          },
+          {
+            "type": "link",
+            "addDate": 1653293151343,
+            "title": "Ludwig • Find your English sentence",
+            "icon": "https://logo.clearbit.com/ludwig.guru",
+            "url": "https://ludwig.guru/"
+          },
+          {
+            "type": "link",
+            "addDate": 1653293161853,
+            "title": "Grammarly: Free Online Writing Assistant",
+            "icon": "https://logo.clearbit.com/www.grammarly.com",
+            "url": "https://www.grammarly.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1612451905877,
+        "title": "科学上网",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1625270579286,
+            "title": "API Access - SM.MS | Dashboard",
+            "icon": "https://logo.clearbit.com/sm.ms",
+            "url": "https://sm.ms/home/apitoken"
+          },
+          {
+            "type": "link",
+            "addDate": 1613576783248,
+            "title": "GitHub 文件加速",
+            "icon": "https://logo.clearbit.com/shrill-pond-3e81.hunsh.workers.dev",
+            "url": "https://shrill-pond-3e81.hunsh.workers.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1612365022071,
+            "title": "GitClone - GitHub缓存加速网站，为开发者服务",
+            "icon": "https://logo.clearbit.com/www.gitclone.com",
+            "url": "https://www.gitclone.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1675865849309,
+            "title": "获取虚拟手机号码。短期手机号码。手机短信激活服务",
+            "icon": "https://logo.clearbit.com/sms-activate.org",
+            "url": "https://sms-activate.org/getNumber"
+          },
+          {
+            "type": "link",
+            "addDate": 1718356915258,
+            "title": "jichangzhu/JichangTuijian: 2024最新好用的机场推荐与节点分享",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/jichangzhu/jichangtuijian"
+          },
+          {
+            "type": "link",
+            "addDate": 1720958143685,
+            "title": "OuO Network",
+            "icon": "https://logo.clearbit.com/dashboard.ouonet.work",
+            "url": "https://dashboard.ouonet.work/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1718277839835,
+            "title": "FOMEPay",
+            "icon": "https://logo.clearbit.com/www.fomepay.cn",
+            "url": "https://www.fomepay.cn/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721973544001,
+        "title": "rolling",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1662285992775,
+            "title": "ky",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1671255200143,
+                "title": "北京教育考试院",
+                "icon": "https://logo.clearbit.com/www.bjeea.cn",
+                "url": "https://www.bjeea.cn/html/yk/sszkzc/2022/1216/82821.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1676357318926,
+                "title": "全国硕士研究生招生考试部分考生初试成绩查询系统",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/apply/cjcxa/"
+              },
+              {
+                "type": "link",
+                "addDate": 1697613233591,
+                "title": "北京大学研究生招生网",
+                "icon": "https://logo.clearbit.com/admission.pku.edu.cn",
+                "url": "https://admission.pku.edu.cn/applications/?CSRFT=QRN7-NM5C-LR08-50JO-TXH6-D31T-3UD6-NGA3"
+              },
+              {
+                "type": "link",
+                "addDate": 1710769498183,
+                "title": "17107256327a1.pdf",
+                "icon": "https://logo.clearbit.com/www.ss.pku.edu.cn",
+                "url": "https://www.ss.pku.edu.cn/newattachments/4551/17107256327a1.pdf"
+              },
+              {
+                "type": "link",
+                "addDate": 1713635830461,
+                "title": "全国硕士生招生复试调剂服务系统",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/sytj/tj/yzytz.action"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1687861092910,
+            "title": "毕业",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1692076108088,
+                "title": "mcslam",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1692248725264,
+                    "title": "Spatial Calibration for Thermal-RGB Cameras and Inertial Sensor System",
+                    "icon": "https://logo.clearbit.com/www.computer.org",
+                    "url": "https://www.computer.org/csdl/proceedings-article/icpr/2018/08546111/17D45XwUAML"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692257445641,
+                    "title": "Calibrate extrinsic for D435i – Intel RealSense Help Center",
+                    "icon": "https://logo.clearbit.com/support.intelrealsense.com",
+                    "url": "https://support.intelrealsense.com/hc/en-us/community/posts/5172380958739-Calibrate-extrinsic-for-D435i"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692257786317,
+                    "title": "Intel® RealSense™ Self-Calibration for D400 Series Depth Cameras",
+                    "icon": "https://logo.clearbit.com/dev.intelrealsense.com",
+                    "url": "https://dev.intelrealsense.com/docs/self-calibration-for-depth-cameras#22-example-target-for-calibration--characterization"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692260170614,
+                    "title": "激光雷达与摄像头数据融合（1）——概括_摄像头雷达协同原理_mychaoles的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/mychaoles/article/details/108735775"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692260178683,
+                    "title": "Intel® RealSense™ Self-Calibration for D400 Series Depth Cameras",
+                    "icon": "https://logo.clearbit.com/dev.intelrealsense.com",
+                    "url": "https://dev.intelrealsense.com/docs/self-calibration-for-depth-cameras#4--limitations--on-chip-and-tare-calibration"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692261102214,
+                    "title": "[机器学习]KITTI的雷达+摄像头数据融合_kitti雷视融合_Frankkk_的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/Frankkk_/article/details/80709959"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692261277877,
+                    "title": "激光雷达和相机的联合标定（Camera-LiDAR Calibration）之Autoware_lidar和camera标定_W_Tortoise的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/learning_tortosie/article/details/82347694"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692263573710,
+                    "title": "The KITTI Vision Benchmark Suite",
+                    "icon": "https://logo.clearbit.com/www.cvlibs.net",
+                    "url": "https://www.cvlibs.net/datasets/kitti/eval_odometry.php"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692263615528,
+                    "title": "[LCC系列] 激光雷达和相机联合标定 之 开源代码和软件汇总 （2004-2021） - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/404762012"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692263626856,
+                    "title": "The KITTI Vision Benchmark Suite",
+                    "icon": "https://logo.clearbit.com/www.cvlibs.net",
+                    "url": "https://www.cvlibs.net/datasets/kitti/raw_data.php"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692329762290,
+                    "title": "【深度估计】KITTI数据集介绍与使用说明 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/364423582"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692340335607,
+                    "title": "基于KITTI数据集的无人驾驶感知与传感器融合实现 - 飞桨AI Studio",
+                    "icon": "https://logo.clearbit.com/aistudio.baidu.com",
+                    "url": "https://aistudio.baidu.com/projectdetail/745413?channelType=0&channel=0"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692341867436,
+                    "title": "Geiger2013IJRR.pdf",
+                    "icon": "https://logo.clearbit.com/www.cvlibs.net",
+                    "url": "https://www.cvlibs.net/publications/Geiger2013IJRR.pdf"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692869162553,
+                    "title": "RTSP Stream Test | Wowza",
+                    "icon": "https://logo.clearbit.com/www.wowza.com",
+                    "url": "https://www.wowza.com/developer/rtsp-stream-test"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692881429417,
+                    "title": "Academic Phrasebank | The University of Manchester",
+                    "icon": "https://logo.clearbit.com/www.phrasebank.manchester.ac.uk",
+                    "url": "https://www.phrasebank.manchester.ac.uk/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692883877949,
+                    "title": "RTSP Stream - Dashboard",
+                    "icon": "https://logo.clearbit.com/rtsp.stream",
+                    "url": "https://rtsp.stream/admin/dashboard"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692934418058,
+                    "title": "python - Capturing RTP Timestamps - Stack Overflow",
+                    "icon": "https://logo.clearbit.com/stackoverflow.com",
+                    "url": "https://stackoverflow.com/questions/57590264/capturing-rtp-timestamps"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692952863359,
+                    "title": "流媒体传输协议之RTP - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/86919417"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1692955234574,
+                    "title": "Absolute Timestamp of Arbitrary Frame in RTSP Stream with GStreamer | by Qorela | Medium",
+                    "icon": "https://logo.clearbit.com/medium.com",
+                    "url": "https://medium.com/@Qorela/absolue-timestamp-of-arbitrary-frame-in-rtsp-stream-with-gstreamer-5a98c3057843"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693040421057,
+                    "title": "sdfstudio/nerfstudio/fields/sdf_field.py at fc13256b7f36c6eba2a760a5d4015275e5fcd8b3 · autonomousvision/sdfstudio",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/autonomousvision/sdfstudio/blob/fc13256b7f36c6eba2a760a5d4015275e5fcd8b3/nerfstudio/fields/sdf_field.py#L422"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693068659133,
+                    "title": "a514154639/rtsp_demo: gstreamer_rtsp",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/a514154639/rtsp_demo"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693219665552,
+                    "title": "Rtcp实现音视频同步 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/363779515"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693237966538,
+                    "title": "ubuntu环境下基于cerbero构建GStreamer及使用VSCode进行调试_ubuntu gstreamer csdn_A1_yuan的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/Miss_yuan/article/details/126436666"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693238394297,
+                    "title": "GStreamer开发简单MP4播放器（一）_gstreamer 播放mp4_倾我一生来读的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_38694388/article/details/118458660"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693301856703,
+                    "title": "GStreamer系列之概览 — qytz-notes v0.1",
+                    "icon": "https://logo.clearbit.com/qytz-notes.readthedocs.io",
+                    "url": "https://qytz-notes.readthedocs.io/tech/gstreamer/gst-playbin.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693302270911,
+                    "title": "Application Development - GStreamer中文教程",
+                    "icon": "https://logo.clearbit.com/ricardolu.gitbook.io",
+                    "url": "https://ricardolu.gitbook.io/gstreamer/application-development"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693305632912,
+                    "title": "【GStreamer】基于NTP+SEI的视频流传输时延测量_休柯的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/Cheers724/article/details/99822937"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693364221629,
+                    "title": "FFmpeg从入门到精通——进阶篇，SEI那些事儿",
+                    "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                    "url": "https://mp.weixin.qq.com/s/BrSOPtDIOj5Lv1h1MLKCSA"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693462601761,
+                    "title": "RTP中H264封装NALU格式详细解析_h264 nalu_小小码农Come on的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_45312249/article/details/122512390"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693465008790,
+                    "title": "【FFmpeg实战】H264 NALU分析_ffmpeg h264_攻城狮百里的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_52622200/article/details/131441854"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693473268395,
+                    "title": "What is the alignment capability in video/x-h264",
+                    "icon": "https://logo.clearbit.com/gstreamer-devel.narkive.com",
+                    "url": "https://gstreamer-devel.narkive.com/2i5BzQYy/what-is-the-alignment-capability-in-video-x-h264"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693810483751,
+                    "title": "【FFmpeg实战】H264, H265硬件编解码基础及码流分析 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/640491338"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693923299439,
+                    "title": "判断图片模糊区域_mjiansun的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/u013066730/article/details/105534767"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1695018134972,
+                    "title": "如何用ffmpeg将rtsp视频流录制成mp4文件-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/hidi_smile/article/details/106354041#:~:text=%E5%BD%95%E6%B5%81%20ffmpeg%20-y%20-i%20rtsp%3A%2F%2Fadmin%3Aadmin%40192.168.2.249%3A554%2F1%2F1,-vcodec%20copy%20-f%20mp4%202.mp4%201"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1695018139528,
+                    "title": "FFMPEG保存视频流数据至本地（rtsp转mp4）_ffmpeg命令把rtsp流保存mp4_HonoredGuest的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/m0_53601375/article/details/121076916"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1695018142300,
+                    "title": "音视频开发---ffmpeg录像并保存为mp4_ffmpeg 音视频录像_挥剑踏苍穹的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/u011734326/article/details/91953391"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1695020264710,
+                    "title": "使用ffmpeg在mp4中添加解析sei自定义信息 - 哔哩哔哩",
+                    "icon": "https://logo.clearbit.com/www.bilibili.com",
+                    "url": "https://www.bilibili.com/read/cv11534285/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1695020510689,
+                    "title": "ffmpeg filter过滤器 基础实例及全面解析 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/434373667"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1687861081985,
+                "title": "chrm.mohrss.gov.cn/流动人员人事档案管理服务机构信息/贵州省流动人员人事档案管理服务机构一览表/",
+                "icon": "https://logo.clearbit.com/chrm.mohrss.gov.cn",
+                "url": "https://chrm.mohrss.gov.cn/%E6%B5%81%E5%8A%A8%E4%BA%BA%E5%91%98%E4%BA%BA%E4%BA%8B%E6%A1%A3%E6%A1%88%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1%E6%9C%BA%E6%9E%84%E4%BF%A1%E6%81%AF/%E8%B4%B5%E5%B7%9E%E7%9C%81%E6%B5%81%E5%8A%A8%E4%BA%BA%E5%91%98%E4%BA%BA%E4%BA%8B%E6%A1%A3%E6%A1%88%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8/"
+              },
+              {
+                "type": "link",
+                "addDate": 1687921818412,
+                "title": "铜仁市人社部门各区县人才中心通讯地址及联系电话-公告公示-铜仁市人力资源和社会保障局",
+                "icon": "https://logo.clearbit.com/rsj.trs.gov.cn",
+                "url": "http://rsj.trs.gov.cn/zwgk/xxgkml/gggs/202106/t20210609_68464052.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1687930738826,
+                "title": "清华校友邮箱-邮箱",
+                "icon": "https://logo.clearbit.com/mail.tsinghua.org.cn",
+                "url": "https://mail.tsinghua.org.cn/static/sirius-web/#mailbox"
+              },
+              {
+                "type": "link",
+                "addDate": 1691984691740,
+                "title": "Rosbag dataset hub - General - ROS Discourse",
+                "icon": "https://logo.clearbit.com/discourse.ros.org",
+                "url": "https://discourse.ros.org/t/rosbag-dataset-hub/20323"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1683540204823,
+            "title": "新T树洞",
+            "icon": "https://logo.clearbit.com/new-t.github.io",
+            "url": "https://new-t.github.io/?"
+          }
+        ]
       }
     ]
   }
